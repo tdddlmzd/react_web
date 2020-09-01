@@ -3,7 +3,10 @@
     height: 60px;
     margin: 0 auto;
     overflow: hidden;
-    min-width:1200px
+    min-width:1200px;
+    /* position: fixed;
+    left: 0;
+    top: 0; */
 }
 .navBar_mainH{
     width: 100%;
