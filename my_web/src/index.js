@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-
+import RouterConfig from './router/index.js'
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <RouterConfig/>
   </React.StrictMode>,
   document.getElementById('root')
 );
