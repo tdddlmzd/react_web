@@ -1,12 +1,12 @@
-.home_header{
+.home_main{
     width: 100%;
-    height: 400px;
-    background: red;
-    margin: 0 auto;
-    overflow: hidden;
+    height: 100%;
 }
-.home_route_head{
+.home_head{
     width: 100%;
-    height: 60px;
-    background: yellow;
+    height: 532px;
+    background-image: url('../image/home/newbanner.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center center;
 }

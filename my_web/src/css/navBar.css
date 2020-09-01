@@ -1,0 +1,55 @@
+.navBar_main{
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+    overflow: hidden;
+    min-width:1200px
+}
+.navBar_mainH{
+    width: 100%;
+    height: 60px;
+}
+.navBar_head{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+.navBar_imageYu{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 104px;
+    height: 35px;
+    background-image: url('../image/home/regist.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.navBar_imageYu:hover{
+    background-image: url('../image/home/p.gif');
+    cursor: pointer;
+}
+.navBar_login{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navBar_login_text{
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 15px;
+}
+.navBar_login_text:hover{
+    background: rgb(247, 247, 247);
+}
