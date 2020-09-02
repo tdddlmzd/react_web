@@ -4,6 +4,7 @@ import React from 'react';
 import './css/app.css'
 import './css/home.css'
 import './css/navBar.css'
+import './css/login.css'
 
 class App extends React.Component{
   render(){

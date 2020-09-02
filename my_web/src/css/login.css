@@ -1,0 +1,46 @@
+.login{
+    width: 100%;
+    height: 100%;
+}
+.login_head{
+    width: 100%;
+    padding: 31px 0 0 43px;
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+}
+.login_head_image{
+    width: 86px;
+    height: 24px;
+    background-image: url('../image/login/loginLogo.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-right: 20px;
+}
+.login_head_back{
+    width: 90px;
+    padding: 5px 0;
+    background-color: #072c4c;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.login_main{
+    width: 100%;
+    height: 60px;
+}
+.login_main_ul{
+    width: 428px;
+    height: 258px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+.login_main_ul li{
+    width: 100%;
+    height: 100%;
+    float: left;
+    background-repeat: no-repeat;
+}

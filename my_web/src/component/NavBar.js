@@ -8,10 +8,10 @@
             <div className='navBar_main'>
             <div className='navBar_mainH'>
                 <div className='navBar_head'>
-                <NavLink to='/'><div className='navBar_imageYu'></div></NavLink>
-                <div className='navBar_login'>
-                    <div className='navBar_login_text'>登录</div>
-                </div>
+                  <NavLink to='/'><div className='navBar_imageYu'></div></NavLink>
+                  <div className='navBar_login'>
+                    <NavLink to='/login'><div className='navBar_login_text'>登录</div></NavLink>
+                  </div>
                 </div>
             </div>
         </div>
