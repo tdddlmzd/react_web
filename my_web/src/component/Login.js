@@ -47,7 +47,7 @@ class Login extends React.Component{
                             listImg.map((item,imgIndex)=>{
                                 return <li key={imgIndex} style={{backgroundImage:`url(${require("../image/login/" + item)})`,display: index === imgIndex ? 'block' : 'none'}}></li>
                             })   
-                        }     
+                        }
                     </ul>
                     <div className='login_content'>
                         <div className='login_content_head'>
@@ -66,7 +66,7 @@ class Login extends React.Component{
                             </div>
                         </div>
                         <div className='login_login'>
-                            <div className='login_login_button'>登录</div>
+                            <NavLink to='/download'><div className='login_login_button'>登录</div></NavLink>
                         </div>
                     </div>
                 </div>
