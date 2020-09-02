@@ -1,8 +1,8 @@
 import React from 'react'
 import NavBar from '../component/NavBar'
+
 class Home extends React.Component {
     state = {
-      e:'233',
       currentIndex: 1,
     }
     //滚动条滚动
