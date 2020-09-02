@@ -1,16 +1,18 @@
 import React from 'react';
-import Home from './component/Home'
+
 //css文件引用
 import './css/app.css'
 import './css/home.css'
 import './css/navBar.css'
 
-function App() {
-  return (
-    <div className='app'>
-      <Home></Home>
+class App extends React.Component{
+  render(){
+    return (
+      <div className='app'>
+        {this.props.children}
     </div>
-  );
+    )
+  }
 }
 
 export default App

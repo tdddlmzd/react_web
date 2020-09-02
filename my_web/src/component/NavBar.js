@@ -1,13 +1,14 @@
-import React from 'react'
-
-class NavBar extends React.Component {
+  import React from 'react'
+  import { NavLink } from  'react-router-dom'
+  class NavBar extends React.Component {
+    
     render() {
       return (
         <div className='navBar_main'>
             <div className='navBar_main'>
             <div className='navBar_mainH'>
                 <div className='navBar_head'>
-                <div className='navBar_imageYu'></div>
+                <NavLink to='/'><div className='navBar_imageYu'></div></NavLink>
                 <div className='navBar_login'>
                     <div className='navBar_login_text'>登录</div>
                 </div>
@@ -19,4 +20,4 @@ class NavBar extends React.Component {
     }
   }
 
-export default NavBar
+  export default NavBar

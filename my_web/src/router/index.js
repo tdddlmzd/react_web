@@ -1,18 +1,14 @@
 import React from 'react';
-import {Router,Route,Switch,Redirect} from 'react-router';
-import { createHashHistory } from "history";
-const history = createHashHistory();
+import {HashRouter,Route} from 'react-router-dom';
+import App from '../App'
+import Home from '../component/Home'
 
-class RouterConfig extends React.Component{
-    render(){
-        return(
-            <Router history={history}>
-                <Switch>
-                    {/* <Route path='/Page1' component={Page1}/>
-                    <Route path='/Page2' component={Page2}/> */}
-                </Switch>
-            </Router>
-        )
-    }
-}
-export default RouterConfig
+const router = (
+    <HashRouter>
+        <App>
+            <Route path='/' component={Home}></Route>
+        </App>
+    </HashRouter>
+)
+
+export default router
