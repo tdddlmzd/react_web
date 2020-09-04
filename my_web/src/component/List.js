@@ -78,6 +78,7 @@ class List extends React.Component {
                 : ''
               }
             </div>
+            <div className='list_content_switch_image'></div>
             <div className="list_content_divIpnut">
               <input placeholder='请输入目的港' className='list_content_input' onFocus={()=>this.mudFoucus()} onBlur={()=>this.mudBlur()}/>
               {
