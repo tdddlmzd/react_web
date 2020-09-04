@@ -16,7 +16,9 @@ class List extends React.Component {
         {"nameCn": "深圳","nameEn": "SHENZHEN","portCode": "CNSZX"},
         {"nameCn": "青岛","nameEn": "QINGDAO","portCode": "CNTAO"}
     ],
-    mudCity: []
+    mudCity: [], //目的港选择
+    direct: [], //直达数据
+    transit: [], //中转数据
   }
   //起始港focues
   qisFoucus(){
@@ -96,7 +98,19 @@ class List extends React.Component {
                 : ''
               }
             </div>
+            <div className='list_content_search'>查询</div>
           </div>
+        </div>
+        <div className='list_text'>由SHANGHAI(上海)发往TOKYO(东京)共有27组直航服务，93组中转服务</div>
+        <div className='list_main'>
+            <ul className='list_main_head_ul'>
+              <li className='list_main_head_li li_head1'>船期方案</li>
+              <li className='list_main_head_li li_head2'>ETD</li>
+              <li className='list_main_head_li li_head3'>航程</li>
+              <li className='list_main_head_li li_head4'>ETA</li>
+              <li className='list_main_head_li li_head5'>头程大船动态</li>
+              <li className='list_main_head_li li_head6'>详情</li>
+            </ul>
         </div>
       </div>
     )

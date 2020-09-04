@@ -1,7 +1,7 @@
 .list{
     width: 100%;
     height: 100%;
-    background: #fff;
+    background: #f8f8f8;
 }
 .list_head{
     width: 100%;
@@ -11,6 +11,7 @@
 .list_content{
     width: 100%;
     height: 100%;
+    background-color: #fff;
 }
 .list_content_head{
     width: 80%;
@@ -18,11 +19,11 @@
     padding: 20px 0 14px 0;
     display: flex;
     align-items: center;
+    position: relative;
 }
 .list_content_divIpnut{
     position: relative;
-    width: 200px;
-    background-color: yellow;
+    width: 20%;
 }
 .list_content_input{
     width: 100%;
@@ -43,7 +44,6 @@
     box-sizing: border-box;
     border-radius: 4px;
     border:1px solid #dcdfe6;
-    background-color: #fff;
     padding: 6px 0;
 }
 .list_content_input_div1_p{
@@ -67,8 +67,84 @@
     width: 40px;
     height: 40px;
     margin: 0 30px;
-    background-image: url('../image/list/ship-transform.png');
+    background-image: url('../image/list/switch_no.png');
     background-size: 24px 24px;
     background-repeat: no-repeat;
     background-position: center center;
+    cursor: pointer;
+}
+.list_content_switch_image:hover{
+    background-image: url('../image/list/switch_select.png');
+}
+.list_content_search{
+    position: absolute;
+    right: 0;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 20px;
+    background-color: #072c4c;
+}
+.list_content_search:hover{
+    background-color: #395670;
+}
+.list_text{
+    width: 80%;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    font-size: 12px;
+}
+.list_main{
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    background-color: #f8f8f8;
+    border-radius: 20px;
+}
+.list_main_head_ul{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 12px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+    background: #fff;
+    padding: 0 5px;
+    box-sizing: border-box;
+}
+.list_main_head_li{
+    display: inline-block;
+    padding-right: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.li_head1{
+    width: 30%;
+    background-color: yellow;
+    text-align: left;
+}
+.li_head2{
+    width: 10%;
+    background-color: turquoise;
+}
+.li_head3{
+    width: 15%;
+    background-color: yellow;
+}
+.li_head4{
+    width: 10%;
+    background-color: turquoise;
+}
+.li_head5{
+    width: 30%;
+    background-color: yellow;
+}
+.li_head6{
+    width: 5%;
+    background-color: turquoise;
+    padding-right: 0;
 }
