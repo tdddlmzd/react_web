@@ -4,6 +4,7 @@ import App from '../App'
 import Home from '../component/Home'
 import Login from '../component/Login'
 import Download from '../component/Download'
+import List from '../component/List'
 
 const router = (
     <HashRouter>
@@ -11,6 +12,7 @@ const router = (
             <Route path='/' component={Home} exact></Route>
             <Route path='/login' component={Login} exact></Route>
             <Route path='/download' component={Download} exact></Route>
+            <Route path='/list' component={List} exact></Route>
         </App>
     </HashRouter>
 )

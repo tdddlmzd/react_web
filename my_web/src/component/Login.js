@@ -39,7 +39,7 @@ class Login extends React.Component{
             <div className='login'>
                 <div className="login_head">
                     <div className='login_head_image'></div>
-                    <NavLink to='/'><div className='login_head_back'>返回首页</div></NavLink>
+                    <NavLink to='/'><div className='login_head_back' path={this.props}>返回首页</div></NavLink>
                 </div>
                 <div className='login_main'>
                     <ul className="login_main_ul">
@@ -66,7 +66,7 @@ class Login extends React.Component{
                             </div>
                         </div>
                         <div className='login_login'>
-                            <NavLink to='/download'><div className='login_login_button'>登录</div></NavLink>
+                            <NavLink to=''><div className='login_login_button'>登录</div></NavLink>
                         </div>
                     </div>
                 </div>

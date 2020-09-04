@@ -23,3 +23,6 @@ code {
   a {
       text-decoration: none;
   }
+  .navBar_login_text{
+    color: #282828;
+  }

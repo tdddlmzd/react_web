@@ -24,7 +24,7 @@ class Home extends React.Component {
       return (
         <div className='home_main'>
           <div className='home_head'>
-            <NavBar></NavBar>
+            <NavBar path={this.props}></NavBar>
             <div className='home_head_text'>
                 <p className='home_text_p1'>鲸准API服务</p>
                 <p className='home_text_p2'>鲸准丰富的API服务，方便您快速构建自己的智能化航运！</p>

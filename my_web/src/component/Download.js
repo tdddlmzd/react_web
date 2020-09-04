@@ -24,7 +24,7 @@ class Download extends React.Component {
     return (
         <div className='download'>
             <div className='download_head'>
-                <NavBar></NavBar>
+                <NavBar path={this.props}></NavBar>
             </div>
             <div className='download_main'>
                 <div className='download_main_p1'>船期 跟踪，就是鲸准 !</div>
