@@ -111,6 +111,9 @@ class List extends React.Component {
               <li className='list_main_head_li li_head5'>头程大船动态</li>
               <li className='list_main_head_li li_head6'>详情</li>
             </ul>
+            <ul className='list_main_data_ul'>
+              <li className='list_main_direct_li'>船期方案</li>
+            </ul>
         </div>
       </div>
     )

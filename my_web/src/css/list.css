@@ -148,3 +148,11 @@
     background-color: turquoise;
     padding-right: 0;
 }
+.list_main_data_ul{
+    width: 100%;
+    background-color: #fff;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding: 10px 5px;
+    box-sizing: border-box;
+}
