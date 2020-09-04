@@ -1,0 +1,4198 @@
+{
+    "status": 1,
+    "content": [
+        {
+            "countryCode": "VIET NAM",
+            "cityEn": "HAIPHONG",
+            "id": 582,
+            "cityCn": "海防",
+            "countryCn": "越南"
+        },
+        {
+            "countryCode": "CHINA",
+            "cityEn": "HONG KONG",
+            "id": 627,
+            "cityCn": "香港",
+            "countryCn": "中国"
+        },
+        {
+            "countryCode": "FIJI",
+            "cityEn": "LAUTOKA",
+            "id": 839,
+            "cityCn": "劳托卡",
+            "countryCn": "斐济"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "TOKUSHIMA",
+            "id": 1591,
+            "cityCn": "德岛",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "TOKUYAMA",
+            "id": 1592,
+            "cityCn": "德山",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "TOKYO",
+            "id": 1593,
+            "cityCn": "东京",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "VLADIVOSTOK",
+            "id": 1672,
+            "cityCn": "海参崴",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "DENMARK",
+            "cityEn": "AALBORG",
+            "id": 1,
+            "cityCn": "奥尔堡",
+            "countryCn": "丹麦"
+        },
+        {
+            "countryCode": "DENMARK",
+            "cityEn": "AARHUS",
+            "id": 2,
+            "cityCn": "奥胡斯",
+            "countryCn": "丹麦"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "ABAKAN",
+            "id": 3,
+            "cityCn": "阿巴坎",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "IRAN, ISLAMIC REPUBLIC OF",
+            "cityEn": "ABBAS",
+            "id": 122,
+            "cityCn": "阿巴斯",
+            "countryCn": "伊朗"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ABERDEEN,MD",
+            "id": 4,
+            "cityCn": "阿伯丁",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CÔTE D'IVOIRE",
+            "cityEn": "ABIDJAN",
+            "id": 5,
+            "cityCn": "阿比让",
+            "countryCn": "象牙海岸（科特迪瓦）"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ABILENE,TX",
+            "id": 6,
+            "cityCn": "阿比林,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED ARAB EMIRATES",
+            "cityEn": "ABU DHABI",
+            "id": 7,
+            "cityCn": "阿布扎比",
+            "countryCn": "阿联酋"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "ABURATSU",
+            "id": 8,
+            "cityCn": "油津",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "EL SALVADOR",
+            "cityEn": "ACAJUTLA",
+            "id": 9,
+            "cityCn": "阿卡胡特拉",
+            "countryCn": "萨尔瓦多"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ABILENE,TX",
+            "id": 6,
+            "cityCn": "阿比林,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "ABURATSU",
+            "id": 8,
+            "cityCn": "油津",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "EL SALVADOR",
+            "cityEn": "ACAJUTLA",
+            "id": 9,
+            "cityCn": "阿卡胡特拉",
+            "countryCn": "萨尔瓦多"
+        },
+        {
+            "countryCode": "COOK ISLANDS",
+            "cityEn": "AITUTAKI",
+            "id": 2072,
+            "cityCn": "艾图塔基",
+            "countryCn": "库克群岛"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "AKITA",
+            "id": 24,
+            "cityCn": "秋田",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "KAZAKHSTAN",
+            "cityEn": "AKTAU",
+            "id": 25,
+            "cityCn": "阿克套",
+            "countryCn": "哈萨克斯坦"
+        },
+        {
+            "countryCode": "KAZAKHSTAN",
+            "cityEn": "AKTOBE",
+            "id": 26,
+            "cityCn": "阿克托比",
+            "countryCn": "哈萨克斯坦"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ALEXANDER CITY,AL",
+            "id": 33,
+            "cityCn": "亚力山大市,阿拉巴马州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "ALICANTE",
+            "id": 40,
+            "cityCn": "阿利坎特",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "KAZAKHSTAN",
+            "cityEn": "ALMATY",
+            "id": 41,
+            "cityCn": "阿拉木图",
+            "countryCn": "哈萨克斯坦"
+        },
+        {
+            "countryCode": "PAPUA NEW GUINEA",
+            "cityEn": "ALOTAU",
+            "id": 43,
+            "cityCn": "阿洛陶",
+            "countryCn": "巴布亚新几内亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ALPHARETTA,GA",
+            "id": 44,
+            "cityCn": "阿法乐特,佐治亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "ALTAMIRA",
+            "id": 46,
+            "cityCn": "阿尔塔米拉",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "AMARILLO,TX",
+            "id": 47,
+            "cityCn": "阿马里洛,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "GUATEMALA",
+            "cityEn": "AMATITLAN",
+            "id": 48,
+            "cityCn": "阿玛蒂特兰",
+            "countryCn": "危地马拉"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "AMRITSAR",
+            "id": 51,
+            "cityCn": "阿姆利则",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "NETHERLANDS",
+            "cityEn": "AMSTERDAM",
+            "id": 52,
+            "cityCn": "阿姆斯特丹",
+            "countryCn": "荷兰"
+        },
+        {
+            "countryCode": "TURKEY",
+            "cityEn": "ANTALYA",
+            "id": 59,
+            "cityCn": "安塔利亚",
+            "countryCn": "土耳其"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "ANTOFAGASTA",
+            "id": 60,
+            "cityCn": "安托法加斯塔",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "MADAGASCAR",
+            "cityEn": "ANTSIRANANA",
+            "id": 61,
+            "cityCn": "安齐拉纳纳",
+            "countryCn": "马达加斯加"
+        },
+        {
+            "countryCode": "BELGIUM",
+            "cityEn": "ANTWERP",
+            "id": 62,
+            "cityCn": "安特卫普",
+            "countryCn": "比利时"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "AOSTA",
+            "id": 63,
+            "cityCn": "奥斯塔",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "ARGENTIA,NL",
+            "id": 72,
+            "cityCn": "阿真舍",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "TURKMENISTAN",
+            "cityEn": "ASHGABAT",
+            "id": 81,
+            "cityCn": "阿什哈巴德",
+            "countryCn": "土库曼斯坦"
+        },
+        {
+            "countryCode": "UZBEKISTAN",
+            "cityEn": "ASTANA",
+            "id": 83,
+            "cityCn": "阿斯坦纳",
+            "countryCn": "乌兹别克斯坦"
+        },
+        {
+            "countryCode": "AZERBAIJAN",
+            "cityEn": "ASTARA",
+            "id": 84,
+            "cityCn": "阿斯塔拉",
+            "countryCn": "阿塞拜疆"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "ASTI",
+            "id": 85,
+            "cityCn": "阿斯蒂",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "GUATEMALA",
+            "cityEn": "ASUNCION MITA",
+            "id": 87,
+            "cityCn": "亚松森米塔",
+            "countryCn": "危地马拉"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ATHENS,TN",
+            "id": 88,
+            "cityCn": "阿森斯,田纳西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "BELGIUM",
+            "cityEn": "ATHUS",
+            "id": 89,
+            "cityCn": "阿蒂斯",
+            "countryCn": "比利时"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ATLANTA,GA",
+            "id": 90,
+            "cityCn": "亚特兰大,佐治亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "KAZAKHSTAN",
+            "cityEn": "ATYRAU",
+            "id": 91,
+            "cityCn": "阿特劳",
+            "countryCn": "哈萨克斯坦"
+        },
+        {
+            "countryCode": "NORWAY",
+            "cityEn": "AUSTEVOLL",
+            "id": 98,
+            "cityCn": "艾于斯特沃尔 ",
+            "countryCn": "挪威"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "AUSTIN,TX",
+            "id": 99,
+            "cityCn": "奥斯汀",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "AZLE,TX",
+            "id": 105,
+            "cityCn": "艾滋里,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BALTIMORE,MD",
+            "id": 118,
+            "cityCn": "巴尔的摩,马里兰州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "BARANZATE",
+            "id": 135,
+            "cityCn": "巴兰扎泰",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "BARBARANO VICENTINO",
+            "id": 138,
+            "cityCn": "巴尔巴拉诺维琴蒂诺",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "FRANCE",
+            "cityEn": "BARBENTANE",
+            "id": 140,
+            "cityCn": "巴邦塔纳",
+            "countryCn": "法国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BARBERTON,OH",
+            "id": 143,
+            "cityCn": "巴伯顿,俄亥俄州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "FRANCE",
+            "cityEn": "BARBEZIEUX SAINT HILAIRE",
+            "id": 144,
+            "cityCn": "巴伯济约－圣伊莱尔",
+            "countryCn": "法国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BARDSTOWN,KY",
+            "id": 157,
+            "cityCn": "巴兹敦,肯塔基州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "FRANCE",
+            "cityEn": "BARENTIN",
+            "id": 159,
+            "cityCn": "巴朗坦",
+            "countryCn": "法国"
+        },
+        {
+            "countryCode": "GERMANY",
+            "cityEn": "BARGSTEDT",
+            "id": 160,
+            "cityCn": "巴格施泰特",
+            "countryCn": "德国"
+        },
+        {
+            "countryCode": "GERMANY",
+            "cityEn": "BARGTEHEIDE",
+            "id": 161,
+            "cityCn": "巴格特海德",
+            "countryCn": "德国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "BARNSTAPLE",
+            "id": 166,
+            "cityCn": "巴恩斯特珀尔",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BARTOW,FL",
+            "id": 170,
+            "cityCn": "巴托,佛罗里达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "GERMANY",
+            "cityEn": "BARUTH",
+            "id": 171,
+            "cityCn": "巴鲁特",
+            "countryCn": "德国"
+        },
+        {
+            "countryCode": "SAINT KITTS AND NEVIS",
+            "cityEn": "BASSETERRE",
+            "id": 178,
+            "cityCn": "巴斯特尔",
+            "countryCn": "圣基茨和尼维斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BASSETT,VA",
+            "id": 179,
+            "cityCn": "巴森特,弗吉尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "EQUATORIAL GUINEA",
+            "cityEn": "BATA",
+            "id": 180,
+            "cityCn": "巴塔",
+            "countryCn": "赤道几内亚"
+        },
+        {
+            "countryCode": "INDONESIA",
+            "cityEn": "BATAM",
+            "id": 181,
+            "cityCn": "巴淡",
+            "countryCn": "印度尼西亚"
+        },
+        {
+            "countryCode": "PHILIPPINES",
+            "cityEn": "BATANGAS",
+            "id": 182,
+            "cityCn": "八打雁",
+            "countryCn": "菲律宾"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BATH,ME",
+            "id": 183,
+            "cityCn": "巴斯",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "GEORGIA",
+            "cityEn": "BATUMI",
+            "id": 184,
+            "cityCn": "巴塔米",
+            "countryCn": "格鲁吉亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BAYPORT,NY",
+            "id": 186,
+            "cityCn": "贝波特,纽约州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BAYTOWN,TX",
+            "id": 187,
+            "cityCn": "贝敦,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BEDFORD,TX",
+            "id": 189,
+            "cityCn": "贝德福德,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "LEBANON",
+            "cityEn": "BEIRUT",
+            "id": 191,
+            "cityCn": "贝鲁特",
+            "countryCn": "黎巴嫩"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "BELFAST",
+            "id": 196,
+            "cityCn": "贝尔法斯特",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "BELIZE",
+            "cityEn": "BELIZE CITY",
+            "id": 198,
+            "cityCn": "伯利兹城",
+            "countryCn": "伯利兹"
+        },
+        {
+            "countryCode": "INDONESIA",
+            "cityEn": "BENETE BAY",
+            "id": 202,
+            "cityCn": "贝尼塔",
+            "countryCn": "印度尼西亚"
+        },
+        {
+            "countryCode": "MALAYSIA",
+            "cityEn": "BINTULU",
+            "id": 215,
+            "cityCn": "民都鲁",
+            "countryCn": "马来西亚"
+        },
+        {
+            "countryCode": "INDONESIA",
+            "cityEn": "BITUNG",
+            "id": 221,
+            "cityCn": "比通",
+            "countryCn": "印度尼西亚"
+        },
+        {
+            "countryCode": "TUNISIA",
+            "cityEn": "BIZERTA",
+            "id": 222,
+            "cityCn": "比塞大",
+            "countryCn": "突尼斯"
+        },
+        {
+            "countryCode": "MALAWI",
+            "cityEn": "BLANTYRE",
+            "id": 224,
+            "cityCn": "布兰太尔",
+            "countryCn": "马拉维"
+        },
+        {
+            "countryCode": "COLOMBIA",
+            "cityEn": "BOGOTA",
+            "id": 229,
+            "cityCn": "波哥大",
+            "countryCn": "哥伦比亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BOSTON,MA",
+            "id": 234,
+            "cityCn": "波士顿,马萨诸塞州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BRADENTON,FL",
+            "id": 236,
+            "cityCn": "布雷登顿,佛罗里达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "BRAMPTON",
+            "id": 237,
+            "cityCn": "布兰普顿",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "SLOVAKIA",
+            "cityEn": "BRATISLAVA",
+            "id": 238,
+            "cityCn": "布拉迪斯拉发",
+            "countryCn": "斯洛伐克"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "BRATSK",
+            "id": 239,
+            "cityCn": "布拉茨克",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BREMERTON,WA",
+            "id": 243,
+            "cityCn": "布雷默顿",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "FRANCE",
+            "cityEn": "BREST",
+            "id": 244,
+            "cityCn": "布雷斯特",
+            "countryCn": "法国"
+        },
+        {
+            "countryCode": "BELARUS",
+            "cityEn": "BREST",
+            "id": 245,
+            "cityCn": "布列斯特",
+            "countryCn": "白俄罗斯"
+        },
+        {
+            "countryCode": "BARBADOS",
+            "cityEn": "BRIDGETOWN",
+            "id": 248,
+            "cityCn": "布里奇顿",
+            "countryCn": "巴巴多斯"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "BRONKA PORT",
+            "id": 2061,
+            "cityCn": "布朗卡",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BROWNSTOWN,MI",
+            "id": 253,
+            "cityCn": "布朗斯敦,密歇根州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BROWNSVILLE,TX",
+            "id": 254,
+            "cityCn": "布朗斯维尔",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ROMANIA",
+            "cityEn": "BUCURESTI",
+            "id": 257,
+            "cityCn": "布加勒斯特",
+            "countryCn": "罗马尼亚"
+        },
+        {
+            "countryCode": "HUNGARY",
+            "cityEn": "BUDAPEST",
+            "id": 258,
+            "cityCn": "布达佩斯",
+            "countryCn": "匈牙利"
+        },
+        {
+            "countryCode": "COLOMBIA",
+            "cityEn": "BUENAVENTURA",
+            "id": 259,
+            "cityCn": "布埃纳文图拉",
+            "countryCn": "哥伦比亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "BURLINGTON,NC",
+            "id": 269,
+            "cityCn": "伯灵顿,北卡罗来纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "BURLINGTON,ON",
+            "id": 270,
+            "cityCn": "伯灵顿",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "VIET NAM",
+            "cityEn": "CAN THO",
+            "id": 289,
+            "cityCn": "芹苴",
+            "countryCn": "越南"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "CANETE",
+            "id": 292,
+            "cityCn": "卡涅特省",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "HAITI",
+            "cityEn": "CAP HAITIEN",
+            "id": 293,
+            "cityCn": "海地角",
+            "countryCn": "海地"
+        },
+        {
+            "countryCode": "SOUTH AFRICA",
+            "cityEn": "CAPE TOWN",
+            "id": 294,
+            "cityCn": "开普敦",
+            "countryCn": "南非"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "CARTAGENA",
+            "id": 296,
+            "cityCn": "卡塔赫纳",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "COLOMBIA",
+            "cityEn": "CARTAGENA",
+            "id": 297,
+            "cityCn": "卡塔赫纳",
+            "countryCn": "哥伦比亚"
+        },
+        {
+            "countryCode": "COLOMBIA",
+            "cityEn": "CARTAGO",
+            "id": 298,
+            "cityCn": "卡塔戈",
+            "countryCn": "哥伦比亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CARTERET,NJ",
+            "id": 299,
+            "cityCn": "卡特雷,新泽西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "CASTELLON DE LA PLANA",
+            "id": 302,
+            "cityCn": "卡斯特利翁",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "SAINT LUCIA",
+            "cityEn": "CASTRIES",
+            "id": 303,
+            "cityCn": "卡斯特里,圣卢西亚",
+            "countryCn": "圣卢西亚"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "CATANIA",
+            "id": 304,
+            "cityCn": "卡塔尼亚",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "PHILIPPINES",
+            "cityEn": "CATBALOGAN",
+            "id": 305,
+            "cityCn": "卡巴洛甘",
+            "countryCn": "菲律宾"
+        },
+        {
+            "countryCode": "SOUTH AFRICA",
+            "cityEn": "CATO RIDGE",
+            "id": 306,
+            "cityCn": "凯托里奇",
+            "countryCn": "南非"
+        },
+        {
+            "countryCode": "CZECH REPUBLIC",
+            "cityEn": "CESKA TREBOVA",
+            "id": 311,
+            "cityCn": "捷克特热博瓦",
+            "countryCn": "捷克"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "CEUTA",
+            "id": 312,
+            "cityCn": "休达",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CHARLESTON,SC",
+            "id": 315,
+            "cityCn": "查尔斯顿,南卡罗来纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SAINT KITTS AND NEVIS",
+            "cityEn": "CHARLESTOWN",
+            "id": 316,
+            "cityCn": "查尔斯顿",
+            "countryCn": "圣基茨和尼维斯"
+        },
+        {
+            "countryCode": "VIRGIN ISLANDS, U.S.",
+            "cityEn": "CHARLOTTE AMALIE",
+            "id": 318,
+            "cityCn": "夏洛特阿马利亚",
+            "countryCn": "美属维尔京群岛"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CHARLOTTE,NC",
+            "id": 317,
+            "cityCn": "夏洛特, 北卡罗来纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CHATTANOOGA,TN",
+            "id": 320,
+            "cityCn": "查塔努加",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "CHEREPOVETS",
+            "id": 324,
+            "cityCn": "切列波维茨",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CHESHIRE,CT",
+            "id": 326,
+            "cityCn": "切希尔,康涅狄格州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "PERU",
+            "cityEn": "CHIMBOTE",
+            "id": 329,
+            "cityCn": "钦博特",
+            "countryCn": "秘鲁"
+        },
+        {
+            "countryCode": "KAZAKHSTAN",
+            "cityEn": "CHIMKENT",
+            "id": 330,
+            "cityCn": "奇姆肯特",
+            "countryCn": "哈萨克斯坦"
+        },
+        {
+            "countryCode": "GUATEMALA",
+            "cityEn": "CHINAUTLA",
+            "id": 331,
+            "cityCn": "奇瑙特拉",
+            "countryCn": "危地马拉"
+        },
+        {
+            "countryCode": "ZAMBIA",
+            "cityEn": "CHIPATA",
+            "id": 336,
+            "cityCn": "奇帕塔",
+            "countryCn": "赞比亚"
+        },
+        {
+            "countryCode": "SWITZERLAND",
+            "cityEn": "CHITA",
+            "id": 339,
+            "cityCn": "赤塔",
+            "countryCn": "瑞士"
+        },
+        {
+            "countryCode": "BANGLADESH",
+            "cityEn": "CHITTAGONG",
+            "id": 321,
+            "cityCn": "吉大港",
+            "countryCn": "孟加拉国"
+        },
+        {
+            "countryCode": "NEW ZEALAND",
+            "cityEn": "CHRISTCHURCH",
+            "id": 342,
+            "cityCn": "克赖斯特彻奇",
+            "countryCn": "新西兰"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CHRISTIANSBURG,VA",
+            "id": 343,
+            "cityCn": "克里斯琴斯堡,弗吉尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "VIRGIN ISLANDS, U.S.",
+            "cityEn": "CHRISTIANSTED",
+            "id": 344,
+            "cityCn": "克里斯琴斯特德",
+            "countryCn": "美属维尔京群岛"
+        },
+        {
+            "countryCode": "KIRIBATI",
+            "cityEn": "CHRISTMAS ISLAND",
+            "id": 2073,
+            "cityCn": "圣诞岛",
+            "countryCn": "基里巴斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CINCINNATI,OH",
+            "id": 348,
+            "cityCn": "辛辛那提,俄亥俄州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "CIVITAVECCHIA",
+            "id": 349,
+            "cityCn": "奇维塔韦基亚",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CLARA CITY,MN",
+            "id": 351,
+            "cityCn": "克拉拉城,明尼苏达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CLEARFIELD,UT",
+            "id": 352,
+            "cityCn": "克利尔菲尔德,犹他州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "COATBRIDGE",
+            "id": 355,
+            "cityCn": "科特布里治",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "COIMBATORE",
+            "id": 359,
+            "cityCn": "哥印拜陀",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "ROMANIA",
+            "cityEn": "CONSTANTA",
+            "id": 369,
+            "cityCn": "康斯坦察",
+            "countryCn": "罗马尼亚"
+        },
+        {
+            "countryCode": "NICARAGUA",
+            "cityEn": "CORINTO",
+            "id": 373,
+            "cityCn": "科林托",
+            "countryCn": "尼加拉瓜"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "CORPUS CHRISTI,TX",
+            "id": 376,
+            "cityCn": "科珠斯克里斯蒂",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "BENIN",
+            "cityEn": "COTONOU",
+            "id": 377,
+            "cityCn": "科托努",
+            "countryCn": "贝宁"
+        },
+        {
+            "countryCode": "PANAMA",
+            "cityEn": "CRISTOBAL",
+            "id": 379,
+            "cityCn": "克里斯托瓦尔",
+            "countryCn": "巴拿马"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "CUAUTITLAN",
+            "id": 380,
+            "cityCn": "库奥蒂特兰",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DALLAS,TX",
+            "id": 389,
+            "cityCn": "达拉斯,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DALTON,GA",
+            "id": 390,
+            "cityCn": "道尔顿,佐治亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "EGYPT",
+            "cityEn": "DAMIETTA",
+            "id": 392,
+            "cityCn": "达米埃塔",
+            "countryCn": "埃及"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "DASHRATH PURI",
+            "id": 397,
+            "cityCn": "达斯拉特",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "DAULATABAD",
+            "id": 398,
+            "cityCn": "道拉塔巴德",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DAVENPORT,CA",
+            "id": 400,
+            "cityCn": "达文波特,加利福尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DAYTON,OH",
+            "id": 401,
+            "cityCn": "代顿",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "DELTA,BC",
+            "id": 404,
+            "cityCn": "台达",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DENTON,TX",
+            "id": 405,
+            "cityCn": "丹顿,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DESTREHAN,LA",
+            "id": 408,
+            "cityCn": "特斯特汉,路易斯安那州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DETROIT,MI",
+            "id": 409,
+            "cityCn": "底特律,密歇根州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "AUSTRALIA",
+            "cityEn": "DEVONPORT",
+            "id": 410,
+            "cityCn": "德文波特",
+            "countryCn": "澳大利亚"
+        },
+        {
+            "countryCode": "DJIBOUTI",
+            "cityEn": "DJIBOUTI",
+            "id": 418,
+            "cityCn": "吉布提",
+            "countryCn": "吉布提"
+        },
+        {
+            "countryCode": "GERMANY",
+            "cityEn": "DORTMUND",
+            "id": 420,
+            "cityCn": "多特蒙德",
+            "countryCn": "德国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DRUTCH HARBOR",
+            "id": 426,
+            "cityCn": "荷兰港",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DULUTH,GA",
+            "id": 431,
+            "cityCn": "德卢斯",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SLOVAKIA",
+            "cityEn": "DUNAJSKA STREDA",
+            "id": 432,
+            "cityCn": "斯特里达",
+            "countryCn": "斯洛伐克"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "DUTCH HARBOR,AK",
+            "id": 442,
+            "cityCn": "荷兰港",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SOUTH AFRICA",
+            "cityEn": "EAST LONDON",
+            "id": 443,
+            "cityCn": "东伦敦",
+            "countryCn": "南非"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "EAST SAINT LOUIS,IL",
+            "id": 444,
+            "cityCn": "东圣路易斯,伊利诺伊州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "EAST WINDSOR,NJ",
+            "id": 445,
+            "cityCn": "东温莎,新泽西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "EDMONTON,AB",
+            "id": 448,
+            "cityCn": "埃德蒙顿",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "EGVEKINOT",
+            "id": 2067,
+            "cityCn": "伊格威基诺特",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "ISRAEL",
+            "cityEn": "EILAT",
+            "id": 2051,
+            "cityCn": "埃拉特",
+            "countryCn": "以色列"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "EKATERINBURG",
+            "id": 451,
+            "cityCn": "叶卡捷琳堡",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "EL PASO,TX",
+            "id": 454,
+            "cityCn": "埃尔帕索,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "EL SALTO",
+            "id": 455,
+            "cityCn": "埃尔萨尔托",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "KENYA",
+            "cityEn": "ELDORET",
+            "id": 456,
+            "cityCn": "埃尔多雷特",
+            "countryCn": "肯尼亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ELIZABETH,NJ",
+            "id": 458,
+            "cityCn": "伊丽莎白,新泽西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ELVERTA,CA",
+            "id": 459,
+            "cityCn": "埃尔弗塔",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UGANDA",
+            "cityEn": "ENTEBBE",
+            "id": 465,
+            "cityCn": "恩德培",
+            "countryCn": "乌干达"
+        },
+        {
+            "countryCode": "PORTUGAL",
+            "cityEn": "ENTRONCAMENTO",
+            "id": 466,
+            "cityCn": "恩特龙卡门图",
+            "countryCn": "葡萄牙"
+        },
+        {
+            "countryCode": "PORTUGAL",
+            "cityEn": "ESTARREJA",
+            "id": 470,
+            "cityCn": "埃斯塔雷雅",
+            "countryCn": "葡萄牙"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "EULESS,TX",
+            "id": 475,
+            "cityCn": "尤利斯,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "NETHERLANDS",
+            "cityEn": "EUROPOORT",
+            "id": 480,
+            "cityCn": "欧罗波特",
+            "countryCn": "荷兰"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "EUSTIS,FL",
+            "id": 482,
+            "cityCn": "尤斯蒂斯,佛罗里达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "GERMANY",
+            "cityEn": "EUTIN",
+            "id": 483,
+            "cityCn": "奥伊廷",
+            "countryCn": "德国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "FELIXSTOWE",
+            "id": 487,
+            "cityCn": "费利克斯托",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "FLINT,MI",
+            "id": 492,
+            "cityCn": "弗林特,密歇根州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MARTINIQUE",
+            "cityEn": "FORT DE FRANCE",
+            "id": 495,
+            "cityCn": "法兰西堡",
+            "countryCn": "马提尼克（法属）"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "FORT MYERS,FL",
+            "id": 496,
+            "cityCn": "梅尔斯堡,佛罗里达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "FORT WORTH,TX",
+            "id": 497,
+            "cityCn": "沃斯堡,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "FORTALEZA",
+            "id": 498,
+            "cityCn": "福塔莱萨",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "BOTSWANA",
+            "cityEn": "FRANCISTOWN",
+            "id": 500,
+            "cityCn": "弗朗西斯敦",
+            "countryCn": "博茨瓦纳"
+        },
+        {
+            "countryCode": "GERMANY",
+            "cityEn": "FRANKFURT",
+            "id": 501,
+            "cityCn": "法兰克福",
+            "countryCn": "德国"
+        },
+        {
+            "countryCode": "NORWAY",
+            "cityEn": "FREDRIKSTAD",
+            "id": 504,
+            "cityCn": "腓特烈斯塔",
+            "countryCn": "挪威"
+        },
+        {
+            "countryCode": "BAHAMAS",
+            "cityEn": "FREE PORT",
+            "id": 505,
+            "cityCn": "巴哈马自由港",
+            "countryCn": "巴哈马"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "FREEPORT,TX",
+            "id": 507,
+            "cityCn": "费里波特,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SIERRA LEONE",
+            "cityEn": "FREETOWN",
+            "id": 508,
+            "cityCn": "弗里敦",
+            "countryCn": "塞拉利昂"
+        },
+        {
+            "countryCode": "AUSTRALIA",
+            "cityEn": "FREMANTLE",
+            "id": 509,
+            "cityCn": "弗里曼特尔",
+            "countryCn": "澳大利亚"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "FUERTEVENTURA",
+            "id": 510,
+            "cityCn": "富埃特文图拉岛",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "TUVALU",
+            "cityEn": "FUNAFUTI",
+            "id": 514,
+            "cityCn": "富纳富提",
+            "countryCn": "图瓦卢"
+        },
+        {
+            "countryCode": "WALLIS AND FUTUNA",
+            "cityEn": "FUTUNA ISLAND",
+            "id": 515,
+            "cityCn": "富图纳岛",
+            "countryCn": "瓦利斯和富图纳群岛"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "GALVESTON,TX",
+            "id": 520,
+            "cityCn": "加尔维斯顿",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "GARDEN CITY,GA",
+            "id": 523,
+            "cityCn": "加登城,乔治亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "PHILIPPINES",
+            "cityEn": "GENERAL SANTOS",
+            "id": 532,
+            "cityCn": "将军港",
+            "countryCn": "菲律宾"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "GENOA CITY,WI",
+            "id": 535,
+            "cityCn": "热那亚城,威斯康星州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CAYMAN ISLANDS",
+            "cityEn": "GEORGE TOWN",
+            "id": 537,
+            "cityCn": "开曼群岛乔治敦",
+            "countryCn": "开曼群岛"
+        },
+        {
+            "countryCode": "GUYANA",
+            "cityEn": "GEORGETOWN",
+            "id": 541,
+            "cityCn": "圭亚那乔治敦",
+            "countryCn": "圭亚那"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "GEORGETOWN,MA",
+            "id": 540,
+            "cityCn": "乔治敦,马萨诸塞州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "GEORGETOWN,ON",
+            "id": 539,
+            "cityCn": "乔治敦,安大略省",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "ALGERIA",
+            "cityEn": "GHAZAOUET",
+            "id": 543,
+            "cityCn": "内穆尔",
+            "countryCn": "阿尔及利亚"
+        },
+        {
+            "countryCode": "GIBRALTAR",
+            "cityEn": "GIBRALTAR",
+            "id": 545,
+            "cityCn": "直布罗陀",
+            "countryCn": "直布罗陀"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "GIOIA TAURO",
+            "id": 547,
+            "cityCn": "焦亚陶罗",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "MOLDOVA, REPUBLIC OF",
+            "cityEn": "GIURGIULESTI",
+            "id": 548,
+            "cityCn": "朱朱列什蒂",
+            "countryCn": "摩尔多瓦"
+        },
+        {
+            "countryCode": "AUSTRALIA",
+            "cityEn": "GLADSTONE",
+            "id": 551,
+            "cityCn": "格拉德斯通",
+            "countryCn": "澳大利亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "GLADSTONE,MI",
+            "id": 550,
+            "cityCn": "格拉德斯通,密歇根州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "GODLEY,TX",
+            "id": 553,
+            "cityCn": "戈德利,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SWEDEN",
+            "cityEn": "GOTHENBURG",
+            "id": 555,
+            "cityCn": "哥德堡",
+            "countryCn": "瑞典"
+        },
+        {
+            "countryCode": "TURKS AND CAICOS ISLANDS",
+            "cityEn": "GRAND TURK ISLAND",
+            "id": 558,
+            "cityCn": "大特克",
+            "countryCn": "特克斯和凯科斯群岛"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "GRANGEMOUTH",
+            "id": 560,
+            "cityCn": "格兰杰默斯",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "GREATER NOIDA",
+            "id": 561,
+            "cityCn": "大诺伊达",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "VENEZUELA",
+            "cityEn": "GUANTA",
+            "id": 569,
+            "cityCn": "关塔",
+            "countryCn": "委内瑞拉"
+        },
+        {
+            "countryCode": "GUATEMALA",
+            "cityEn": "GUATEMALA CITY",
+            "id": 571,
+            "cityCn": "危地马拉城",
+            "countryCn": "危地马拉"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "GULFPORT,MS",
+            "id": 574,
+            "cityCn": "格尔夫波特",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SAINT BARTHÉLEMY",
+            "cityEn": "GUSTAVIA",
+            "id": 576,
+            "cityCn": "居斯塔维亚",
+            "countryCn": "圣巴泰勒米"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "HAKATA",
+            "id": 583,
+            "cityCn": "博多",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "HAKODATE",
+            "id": 584,
+            "cityCn": "函馆",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "SWEDEN",
+            "cityEn": "HALMSTAD",
+            "id": 587,
+            "cityCn": "哈尔姆斯塔德",
+            "countryCn": "瑞典"
+        },
+        {
+            "countryCode": "QATAR",
+            "cityEn": "HAMAD PORT",
+            "id": 588,
+            "cityCn": "哈马德港",
+            "countryCn": "卡塔尔"
+        },
+        {
+            "countryCode": "NEW ZEALAND",
+            "cityEn": "HAMILTON",
+            "id": 594,
+            "cityCn": "汉密尔顿,新西兰",
+            "countryCn": "新西兰"
+        },
+        {
+            "countryCode": "BERMUDA",
+            "cityEn": "HAMILTON",
+            "id": 596,
+            "cityCn": "汉密尔顿,百慕大群岛",
+            "countryCn": "百慕大"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "HAMILTON,NY",
+            "id": 593,
+            "cityCn": "汉密尔顿,纽约州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "HAMILTON,ON",
+            "id": 595,
+            "cityCn": "哈密尔顿",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "HASLET,TX",
+            "id": 602,
+            "cityCn": "哈斯利特,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "AFGHANISTAN",
+            "cityEn": "HERAT",
+            "id": 611,
+            "cityCn": "赫拉特",
+            "countryCn": "阿富汗"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "HIDALGO,TX",
+            "id": 615,
+            "cityCn": "伊达尔戈,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "HIGH POINT,NC",
+            "id": 616,
+            "cityCn": "海波因特,北卡罗来纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "HITACHINAKA",
+            "id": 620,
+            "cityCn": "日立内",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "AUSTRALIA",
+            "cityEn": "HOBART",
+            "id": 623,
+            "cityCn": "霍巴特",
+            "countryCn": "澳大利亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "HOBART,OK",
+            "id": 622,
+            "cityCn": "霍巴特,俄克拉何马州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "HOLIDAY CITY,OH",
+            "id": 626,
+            "cityCn": "假日城,俄亥俄州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "HOUSTON,TX",
+            "id": 634,
+            "cityCn": "休斯顿,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "HUEHUETOCA",
+            "id": 638,
+            "cityCn": "胡埃霍托卡",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "HUNTINGBURG,IN",
+            "id": 640,
+            "cityCn": "亨廷堡,印第安纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "HUNTSVILLE,AL",
+            "id": 641,
+            "cityCn": "汉茨维尔,阿拉巴马州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "IMBITUBA",
+            "id": 650,
+            "cityCn": "因比图巴",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "INDIAN TRAIL,NC",
+            "id": 657,
+            "cityCn": "印第安特雷尔,北卡罗来纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "INDIANTOWN,FL",
+            "id": 660,
+            "cityCn": "印第安敦,佛罗里达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "IRKUTSK",
+            "id": 664,
+            "cityCn": "伊尔库茨克",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "IRUNGATTUKOTTAI",
+            "id": 665,
+            "cityCn": "伊伦加图科塔",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "TURKEY",
+            "cityEn": "ISTANBUL",
+            "id": 670,
+            "cityCn": "伊斯坦布尔",
+            "countryCn": "土耳其"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "ITAGUAI",
+            "id": 671,
+            "cityCn": "伊塔瓜伊",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "ITAJAI",
+            "id": 672,
+            "cityCn": "伊塔雅伊",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "ITAPOA",
+            "id": 673,
+            "cityCn": "伊塔普亚",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "ITAQUI",
+            "id": 674,
+            "cityCn": "伊塔基",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "TURKEY",
+            "cityEn": "IZMIT",
+            "id": 679,
+            "cityCn": "伊兹米特",
+            "countryCn": "土耳其"
+        },
+        {
+            "countryCode": "INDONESIA",
+            "cityEn": "JAKARTA",
+            "id": 683,
+            "cityCn": "雅加达",
+            "countryCn": "印度尼西亚"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "JAWAHARLAL NEHRU (MAHARASHTRA)",
+            "id": 2091,
+            "cityCn": "加瓦拉尔·尼赫鲁港",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "JEANNETTE,PA",
+            "id": 686,
+            "cityCn": "珍妮特,宾夕法尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "JERSEY CITY,NJ",
+            "id": 689,
+            "cityCn": "泽西市,新泽西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "JOLIET,IL",
+            "id": 694,
+            "cityCn": "乔利埃特,伊利诺伊州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "KANSAS CITY,MO",
+            "id": 710,
+            "cityCn": "堪萨斯城,密苏里州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ZAMBIA",
+            "cityEn": "KATETE",
+            "id": 720,
+            "cityCn": "卡泰特",
+            "countryCn": "赞比亚"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "KATHUWAS",
+            "id": 721,
+            "cityCn": "卡苏瓦",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "KENT,WA",
+            "id": 732,
+            "cityCn": "肯特,华盛顿州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "KETCHIKAN,AK",
+            "id": 735,
+            "cityCn": "凯奇坎",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "PAPUA NEW GUINEA",
+            "cityEn": "KIETA",
+            "id": 746,
+            "cityCn": "基埃塔",
+            "countryCn": "巴布亚新几内亚"
+        },
+        {
+            "countryCode": "SAUDI ARABIA",
+            "cityEn": "KING ABDULLAH CITY",
+            "id": 750,
+            "cityCn": "阿卜杜拉",
+            "countryCn": "沙特阿拉伯"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "KINGSTON",
+            "id": 751,
+            "cityCn": "金斯顿东约克郡",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "JAMAICA",
+            "cityEn": "KINGSTON",
+            "id": 753,
+            "cityCn": "金士顿",
+            "countryCn": "牙买加"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "KINGSTON UPON THAMES",
+            "id": 755,
+            "cityCn": "泰晤士河畔金斯顿",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "KINGSTON,ON",
+            "id": 754,
+            "cityCn": "金斯顿,安大略省",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "KINGSTON,RI",
+            "id": 752,
+            "cityCn": "金斯顿,罗得岛州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SAINT VINCENT AND THE GRENADINES",
+            "cityEn": "KINGSTOWN",
+            "id": 757,
+            "cityCn": "金斯敦",
+            "countryCn": "圣文森特和格林纳丁斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "KINGSTOWN,NC",
+            "id": 756,
+            "cityCn": "金斯敦,北卡罗来纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "KIROVO-CHEPETSK",
+            "id": 759,
+            "cityCn": "基洛夫-科特拉斯季",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "KITCHENER,ON",
+            "id": 764,
+            "cityCn": "基奇纳",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "KITIMAT,BC",
+            "id": 765,
+            "cityCn": "基提马特",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "ZAMBIA",
+            "cityEn": "KITWE",
+            "id": 766,
+            "cityCn": "基特韦",
+            "countryCn": "赞比亚"
+        },
+        {
+            "countryCode": "THAILAND",
+            "cityEn": "KLONG TOEY",
+            "id": 768,
+            "cityCn": "孔堤",
+            "countryCn": "泰国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "KNOXVILLE,TN",
+            "id": 769,
+            "cityCn": "诺克斯维尔",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "KAZAKHSTAN",
+            "cityEn": "KOKSHETAU",
+            "id": 775,
+            "cityCn": "科克舍套",
+            "countryCn": "哈萨克斯坦"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "KOLKATA",
+            "id": 776,
+            "cityCn": "加尔各答",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "GERMANY",
+            "cityEn": "KORNWESTHEIM",
+            "id": 781,
+            "cityCn": "科恩韦斯特海姆",
+            "countryCn": "德国"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "KOSTARIKHA",
+            "id": 785,
+            "cityCn": "科斯塔里哈",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "KOTA",
+            "id": 786,
+            "cityCn": "科塔",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "MALAYSIA",
+            "cityEn": "KOTA KINABALU",
+            "id": 787,
+            "cityCn": "哥打基纳巴卢",
+            "countryCn": "马来西亚"
+        },
+        {
+            "countryCode": "FINLAND",
+            "cityEn": "KOTKA",
+            "id": 788,
+            "cityCn": "科特卡",
+            "countryCn": "芬兰"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "KOTTAYAM",
+            "id": 789,
+            "cityCn": "戈德亚姆",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "KRISHNAPATNAM",
+            "id": 795,
+            "cityCn": "克里什纳帕特南",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "NORWAY",
+            "cityEn": "KRISTIANSAND",
+            "id": 796,
+            "cityCn": "克里斯蒂安桑德",
+            "countryCn": "挪威"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "KRONSHTADT",
+            "id": 2081,
+            "cityCn": "喀琅施塔得",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "MALAYSIA",
+            "cityEn": "KUANTAN",
+            "id": 798,
+            "cityCn": "关丹",
+            "countryCn": "马来西亚"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "KUMAMOTO",
+            "id": 800,
+            "cityCn": "熊本",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "POLAND",
+            "cityEn": "KUTNO",
+            "id": 805,
+            "cityCn": "库特诺",
+            "countryCn": "波兰"
+        },
+        {
+            "countryCode": "KUWAIT",
+            "cityEn": "KUWAIT",
+            "id": 806,
+            "cityCn": "科威特",
+            "countryCn": "科威特"
+        },
+        {
+            "countryCode": "TUNISIA",
+            "cityEn": "LA GOULETTE NORD",
+            "id": 810,
+            "cityCn": "拉古莱特",
+            "countryCn": "突尼斯"
+        },
+        {
+            "countryCode": "HAITI",
+            "cityEn": "LAFITO PORT",
+            "id": 2069,
+            "cityCn": "拉菲特港",
+            "countryCn": "海地"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "LAREDO,TX",
+            "id": 828,
+            "cityCn": "拉雷多,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "THAILAND",
+            "cityEn": "LAT KRABANG",
+            "id": 833,
+            "cityCn": "莱卡邦",
+            "countryCn": "泰国"
+        },
+        {
+            "countryCode": "SYRIAN ARAB REPUBLIC",
+            "cityEn": "LATAKIA",
+            "id": 834,
+            "cityCn": "拉塔基亚",
+            "countryCn": "叙利亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "LATROBE,PA",
+            "id": 835,
+            "cityCn": "拉特罗布,宾夕法尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "LAUNCESTON",
+            "id": 836,
+            "cityCn": "朗斯顿",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "AUSTRALIA",
+            "cityEn": "LAUNCESTON",
+            "id": 837,
+            "cityCn": "朗赛斯顿",
+            "countryCn": "澳大利亚"
+        },
+        {
+            "countryCode": "FIJI",
+            "cityEn": "LAUTOKA",
+            "id": 839,
+            "cityCn": "劳托卡",
+            "countryCn": "斐济"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "LIBERTYVILLE,IL",
+            "id": 850,
+            "cityCn": "利伯蒂维尔,伊利诺伊州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "LINCOLNTON,NC",
+            "id": 857,
+            "cityCn": "林肯顿,北卡罗来纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MONTSERRAT",
+            "cityEn": "LITTLE BAY",
+            "id": 861,
+            "cityCn": "立特贝港",
+            "countryCn": "蒙特塞拉特"
+        },
+        {
+            "countryCode": "CAYMAN ISLANDS",
+            "cityEn": "LITTLE CAYMAN",
+            "id": 862,
+            "cityCn": "小开曼岛",
+            "countryCn": "开曼群岛"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "LITTLE ROCK,AR",
+            "id": 863,
+            "cityCn": "小石城,阿肯色州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CZECH REPUBLIC",
+            "cityEn": "LITVINOV",
+            "id": 864,
+            "cityCn": "利特维诺夫",
+            "countryCn": "捷克"
+        },
+        {
+            "countryCode": "ZAMBIA",
+            "cityEn": "LIVINGSTONE",
+            "id": 867,
+            "cityCn": "利文斯敦",
+            "countryCn": "赞比亚"
+        },
+        {
+            "countryCode": "ANGOLA",
+            "cityEn": "LOBITO",
+            "id": 869,
+            "cityCn": "洛比托",
+            "countryCn": "安哥拉"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "LONDON GATEWAY",
+            "id": 874,
+            "cityCn": "伦敦口岸",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "LUBBOCK,TX",
+            "id": 883,
+            "cityCn": "拉伯克,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "NAMIBIA",
+            "cityEn": "LUDERITZ",
+            "id": 886,
+            "cityCn": "卢德立次",
+            "countryCn": "纳米比亚"
+        },
+        {
+            "countryCode": "NEW ZEALAND",
+            "cityEn": "LYTTELTON",
+            "id": 891,
+            "cityCn": "利特尔顿",
+            "countryCn": "新西兰"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "MAGNITOGORSK",
+            "id": 898,
+            "cityCn": "马格尼托格尔斯克",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "MALTA",
+            "cityEn": "MALTA",
+            "id": 913,
+            "cityCn": "马耳他",
+            "countryCn": "马耳他"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "MALTA,NY",
+            "id": 914,
+            "cityCn": "马耳他,纽约州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "MANCHESTER",
+            "id": 917,
+            "cityCn": "曼彻斯特",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "MANSFIELD,TX",
+            "id": 921,
+            "cityCn": "曼斯菲尔德,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "MANTOVA",
+            "id": 922,
+            "cityCn": "曼托瓦",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "FINLAND",
+            "cityEn": "MANTYLUOTO",
+            "id": 923,
+            "cityCn": "曼蒂卢奥托",
+            "countryCn": "芬兰"
+        },
+        {
+            "countryCode": "MOZAMBIQUE",
+            "cityEn": "MAPUTO",
+            "id": 926,
+            "cityCn": "马普托",
+            "countryCn": "莫桑比克"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "MAQUOKETA,IA",
+            "id": 927,
+            "cityCn": "马科基塔,爱荷华州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ARGENTINA",
+            "cityEn": "MAR DEL PLATA",
+            "id": 928,
+            "cityCn": "马德普拉塔",
+            "countryCn": "阿根廷"
+        },
+        {
+            "countryCode": "TURKEY",
+            "cityEn": "MARPORT",
+            "id": 2082,
+            "cityCn": "马波特",
+            "countryCn": "土耳其"
+        },
+        {
+            "countryCode": "NEW ZEALAND",
+            "cityEn": "MARSDEN POINT",
+            "id": 935,
+            "cityCn": "麦斯登角",
+            "countryCn": "新西兰"
+        },
+        {
+            "countryCode": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+            "cityEn": "MATADI",
+            "id": 945,
+            "cityCn": "马塔迪",
+            "countryCn": "刚果(金)"
+        },
+        {
+            "countryCode": "PERU",
+            "cityEn": "MATARANI",
+            "id": 946,
+            "cityCn": "马塔腊尼",
+            "countryCn": "秘鲁"
+        },
+        {
+            "countryCode": "WALLIS AND FUTUNA",
+            "cityEn": "MATAUTU",
+            "id": 947,
+            "cityCn": "马塔乌图",
+            "countryCn": "瓦利斯和富图纳群岛"
+        },
+        {
+            "countryCode": "SWAZILAND",
+            "cityEn": "MATSAPHA",
+            "id": 948,
+            "cityCn": "马扎巴",
+            "countryCn": "斯威士兰"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "MATSUYAMA",
+            "id": 949,
+            "cityCn": "松山",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "MAZATLAN",
+            "id": 951,
+            "cityCn": "马萨特兰",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "BELGIUM",
+            "cityEn": "MEERHOUT",
+            "id": 953,
+            "cityCn": "梅尔豪特",
+            "countryCn": "比利时"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "METLAKATLA,AK",
+            "id": 968,
+            "cityCn": "梅特拉卡特拉",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "MEXICO CITY",
+            "id": 970,
+            "cityCn": "墨西哥城",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "MIDLAND,TX",
+            "id": 973,
+            "cityCn": "米德兰,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "MILTON,ON",
+            "id": 977,
+            "cityCn": "米尔顿",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "MINERAL WELLS,TX",
+            "id": 980,
+            "cityCn": "矿泉井城,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "LIBYA",
+            "cityEn": "MISURATA",
+            "id": 988,
+            "cityCn": "米苏拉塔",
+            "countryCn": "利比亚"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "MONCTON,NB",
+            "id": 1001,
+            "cityCn": "蒙克顿,新不伦瑞克省",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "JAMAICA",
+            "cityEn": "MONTEGO BAY",
+            "id": 1006,
+            "cityCn": "蒙特歌湾",
+            "countryCn": "牙买加"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "MONTERREY",
+            "id": 1007,
+            "cityCn": "蒙特雷",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "URUGUAY",
+            "cityEn": "MONTEVIDEO",
+            "id": 1008,
+            "cityCn": "蒙得维的亚",
+            "countryCn": "乌拉圭"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "MONTEVIDEO,MN",
+            "id": 1009,
+            "cityCn": "蒙得维的亚,明尼苏达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "FRANCE",
+            "cityEn": "MONTOIR",
+            "id": 1010,
+            "cityCn": "蒙托伊尔",
+            "countryCn": "法国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "MONTREAL,QC",
+            "id": 1011,
+            "cityCn": "蒙特利尔",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "MORONI,UT",
+            "id": 1014,
+            "cityCn": "莫罗尼，犹他州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "MORRISTOWN,TN",
+            "id": 1016,
+            "cityCn": "莫里斯敦,田纳西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ALGERIA",
+            "cityEn": "MOSTAGANEM",
+            "id": 1020,
+            "cityCn": "穆斯塔加奈姆",
+            "countryCn": "阿尔及利亚"
+        },
+        {
+            "countryCode": "PAPUA NEW GUINEA",
+            "cityEn": "MOTUKEA ISLAND",
+            "id": 1021,
+            "cityCn": "蒙托克",
+            "countryCn": "巴布亚新几内亚"
+        },
+        {
+            "countryCode": "OMAN",
+            "cityEn": "MUSCAT",
+            "id": 1030,
+            "cityCn": "马斯喀特",
+            "countryCn": "阿曼"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "MUSCATINE,IA",
+            "id": 1031,
+            "cityCn": "马斯卡廷,爱荷华州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ZIMBABWE",
+            "cityEn": "MUTARE",
+            "id": 1032,
+            "cityCn": "穆雷塔",
+            "countryCn": "津巴布韦"
+        },
+        {
+            "countryCode": "COMOROS",
+            "cityEn": "MUTSAMUDU",
+            "id": 1033,
+            "cityCn": "穆察穆杜",
+            "countryCn": "科摩罗"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "NAOETSU",
+            "id": 1049,
+            "cityCn": "直江津",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "NATAL",
+            "id": 1057,
+            "cityCn": "纳塔尔",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "NAVEGANTES",
+            "id": 1059,
+            "cityCn": "纳维根特斯",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NEW HAVEN,CT",
+            "id": 1073,
+            "cityCn": "纽黑文",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "NEW ZEALAND",
+            "cityEn": "NEW PLYMOUTH",
+            "id": 1077,
+            "cityCn": "新普利茅斯",
+            "countryCn": "新西兰"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NEW PLYMOUTH,ID",
+            "id": 1076,
+            "cityCn": "新普利茅斯,爱达荷州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "NEWCASTLE",
+            "id": 1081,
+            "cityCn": "纽卡斯尔,英国",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "AUSTRALIA",
+            "cityEn": "NEWCASTLE",
+            "id": 1083,
+            "cityCn": "纽卡斯尔,澳大利亚",
+            "countryCn": "澳大利亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NEWCASTLE,UT",
+            "id": 1082,
+            "cityCn": "纽卡斯尔,犹他州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "NEWMARKET,ON",
+            "id": 1084,
+            "cityCn": "新市",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NEWPORT NEWS,VA",
+            "id": 1086,
+            "cityCn": "纽波特纽斯",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NEWPORT,OR",
+            "id": 1085,
+            "cityCn": "纽波特",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "NIIGATA",
+            "id": 1090,
+            "cityCn": "新泻",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NORTH BERGEN,NJ",
+            "id": 1102,
+            "cityCn": "北伯根,新泽西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NORTH RICHLAND HILLS,TX",
+            "id": 1103,
+            "cityCn": "北里奇兰希尔斯,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NORTH VERNON,IN",
+            "id": 1104,
+            "cityCn": "北弗农,印第安纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NORTH WILKESBORO,NC",
+            "id": 1105,
+            "cityCn": "北威尔克斯伯勒,北卡罗来纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NORTHBOROUGH",
+            "id": 2090,
+            "cityCn": "诺斯伯勒",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "NORTHLAKE,IL",
+            "id": 1106,
+            "cityCn": "诺斯莱克,伊利诺伊州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MAURITANIA",
+            "cityEn": "NOUAKCHOTT",
+            "id": 1109,
+            "cityCn": "努瓦克肖特",
+            "countryCn": "毛里塔尼亚"
+        },
+        {
+            "countryCode": "CUBA",
+            "cityEn": "NUEVITAS",
+            "id": 1115,
+            "cityCn": "努埃维塔斯",
+            "countryCn": "古巴"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ODESSA,TX",
+            "id": 1121,
+            "cityCn": "敖德萨,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "OFUNATO",
+            "id": 1123,
+            "cityCn": "大船渡",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "OITA",
+            "id": 1124,
+            "cityCn": "大分",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "OKLAHOMA CITY,OK",
+            "id": 1126,
+            "cityCn": "俄克拉荷马城",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ONTARIO,CA",
+            "id": 1132,
+            "cityCn": "安大略湖",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ARUBA",
+            "cityEn": "ORANJESTAD",
+            "id": 1135,
+            "cityCn": "奥腊涅斯塔德",
+            "countryCn": "阿鲁巴"
+        },
+        {
+            "countryCode": "CZECH REPUBLIC",
+            "cityEn": "OSTRAVA",
+            "id": 1144,
+            "cityCn": "俄斯特拉发",
+            "countryCn": "捷克"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "OTA",
+            "id": 1145,
+            "cityCn": "太田",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "OTAKE",
+            "id": 1146,
+            "cityCn": "大竹",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "OTARU",
+            "id": 1147,
+            "cityCn": "小樽",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "OTAY MESA,CA",
+            "id": 1148,
+            "cityCn": "奥泰梅沙,加利福尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "OTTAWA,ON",
+            "id": 1149,
+            "cityCn": "渥太华",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "GERMANY",
+            "cityEn": "OTTMARSHEIM",
+            "id": 1150,
+            "cityCn": "奥特马尔桑",
+            "countryCn": "德国"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "PACHUCA DE SOTO",
+            "id": 1153,
+            "cityCn": "帕楚卡",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PADEN CITY,WV",
+            "id": 1155,
+            "cityCn": "佩登城,西弗吉尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "PERU",
+            "cityEn": "PAITA",
+            "id": 1158,
+            "cityCn": "派塔",
+            "countryCn": "秘鲁"
+        },
+        {
+            "countryCode": "NEW ZEALAND",
+            "cityEn": "PALMERSTON NORTH",
+            "id": 1166,
+            "cityCn": "北帕默斯顿",
+            "countryCn": "新西兰"
+        },
+        {
+            "countryCode": "PHILIPPINES",
+            "cityEn": "PANABO CITY",
+            "id": 1170,
+            "cityCn": "帕纳博城",
+            "countryCn": "菲律宾"
+        },
+        {
+            "countryCode": "PANAMA",
+            "cityEn": "PANAMA CITY",
+            "id": 1172,
+            "cityCn": "巴拿马城",
+            "countryCn": "巴拿马"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PANAMA CITY BEACH,FL",
+            "id": 1173,
+            "cityCn": "巴拿马市海滩,佛罗里达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PANAMA CITY,FL",
+            "id": 1171,
+            "cityCn": "巴拿马市,佛罗里达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "PANTNAGAR",
+            "id": 1176,
+            "cityCn": "潘特纳加",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "FRENCH POLYNESIA",
+            "cityEn": "PAPEETE",
+            "id": 1177,
+            "cityCn": "帕皮提",
+            "countryCn": "法属波利尼西亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PASADENA,TX",
+            "id": 1183,
+            "cityCn": "帕萨迪纳,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "PATLI",
+            "id": 1187,
+            "cityCn": "帕特里",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PEOSTA,IA",
+            "id": 1197,
+            "cityCn": "朴斯塔,艾奥瓦州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "PERTH",
+            "id": 1199,
+            "cityCn": "珀斯,英国",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "AUSTRALIA",
+            "cityEn": "PERTH",
+            "id": 1201,
+            "cityCn": "珀斯,澳大利亚",
+            "countryCn": "澳大利亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PERTH AMBOY,NJ",
+            "id": 1202,
+            "cityCn": "珀斯安博伊,新泽西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "PERTH,ON",
+            "id": 1200,
+            "cityCn": "珀斯,安大略省",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "ISRAEL",
+            "cityEn": "PETAH TIKVA",
+            "id": 1205,
+            "cityCn": "佩塔提克瓦",
+            "countryCn": "以色列"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PETERSBURG,VA",
+            "id": 1206,
+            "cityCn": "彼得斯堡,弗吉尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "PETROPAVLOVSK-KAMCHATSKIY",
+            "id": 1207,
+            "cityCn": "勘察加彼得罗巴甫洛夫斯克",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "SWEDEN",
+            "cityEn": "PITEA",
+            "id": 1219,
+            "cityCn": "皮特奥 ",
+            "countryCn": "瑞典"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "PITHAMPUR",
+            "id": 1220,
+            "cityCn": "皮坦普尔",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "PITT MEADOWS,BC",
+            "id": 1221,
+            "cityCn": "匹特草原",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PITTSBURGH,PA",
+            "id": 1222,
+            "cityCn": "匹兹堡,宾夕法尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PLAINFIELD,CT",
+            "id": 1223,
+            "cityCn": "普莱恩菲尔德,康涅狄格州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PLEASANT PRAIRIE,WI",
+            "id": 1225,
+            "cityCn": "威斯康辛州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PLYMOUTH,MA",
+            "id": 1227,
+            "cityCn": "普利茅斯,马萨诸塞州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "POCATELLO,ID",
+            "id": 1228,
+            "cityCn": "波卡特洛,爱达荷州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "TRINIDAD AND TOBAGO",
+            "cityEn": "POINT LISAS",
+            "id": 1231,
+            "cityCn": "利萨斯角",
+            "countryCn": "特立尼达和多巴哥"
+        },
+        {
+            "countryCode": "GUADELOUPE",
+            "cityEn": "POINTE A PITRE",
+            "id": 1232,
+            "cityCn": "皮特尔角城",
+            "countryCn": "瓜德罗普（法属）"
+        },
+        {
+            "countryCode": "RÉUNION",
+            "cityEn": "POINTE DES GALETS",
+            "id": 1233,
+            "cityCn": "加莱角",
+            "countryCn": "留尼汪"
+        },
+        {
+            "countryCode": "CONGO",
+            "cityEn": "POINTE NOIRE",
+            "id": 1234,
+            "cityCn": "黑角",
+            "countryCn": "刚果(布)"
+        },
+        {
+            "countryCode": "UKRAINE",
+            "cityEn": "POLTAVA",
+            "id": 1235,
+            "cityCn": "波尔塔瓦",
+            "countryCn": "乌克兰"
+        },
+        {
+            "countryCode": "INDONESIA",
+            "cityEn": "PONTIANAK",
+            "id": 1237,
+            "cityCn": "坤甸",
+            "countryCn": "印度尼西亚"
+        },
+        {
+            "countryCode": "HAITI",
+            "cityEn": "PORT AU PRINCE",
+            "id": 1238,
+            "cityCn": "太子港",
+            "countryCn": "海地"
+        },
+        {
+            "countryCode": "NEW ZEALAND",
+            "cityEn": "PORT CHALMERS",
+            "id": 1239,
+            "cityCn": "查尔莫斯",
+            "countryCn": "新西兰"
+        },
+        {
+            "countryCode": "SOUTH AFRICA",
+            "cityEn": "PORT ELIZABETH",
+            "id": 1240,
+            "cityCn": "伊丽莎白港",
+            "countryCn": "南非"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PORT EVERGLADES,FL",
+            "id": 1241,
+            "cityCn": "埃弗格雷斯港",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "GABON",
+            "cityEn": "PORT GENTIL",
+            "id": 1242,
+            "cityCn": "让蒂尔港",
+            "countryCn": "加蓬"
+        },
+        {
+            "countryCode": "NIGERIA",
+            "cityEn": "PORT HARCOURT",
+            "id": 1243,
+            "cityCn": "哈科特港",
+            "countryCn": "尼日利亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PORT HUENEME,CA",
+            "id": 1244,
+            "cityCn": "怀尼米港",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MALAYSIA",
+            "cityEn": "PORT KELANG",
+            "id": 1245,
+            "cityCn": "巴生",
+            "countryCn": "马来西亚"
+        },
+        {
+            "countryCode": "AUSTRALIA",
+            "cityEn": "PORT KEMBLA",
+            "id": 1246,
+            "cityCn": "肯布拉港",
+            "countryCn": "澳大利亚"
+        },
+        {
+            "countryCode": "MAURITIUS",
+            "cityEn": "PORT LOUIS",
+            "id": 1247,
+            "cityCn": "路易斯港",
+            "countryCn": "毛里求斯"
+        },
+        {
+            "countryCode": "PAPUA NEW GUINEA",
+            "cityEn": "PORT MORESBY",
+            "id": 1248,
+            "cityCn": "莫尔兹比港",
+            "countryCn": "巴布亚新几内亚"
+        },
+        {
+            "countryCode": "TRINIDAD AND TOBAGO",
+            "cityEn": "PORT OF SPAIN",
+            "id": 1249,
+            "cityCn": "西班牙港",
+            "countryCn": "特立尼达和多巴哥"
+        },
+        {
+            "countryCode": "EGYPT",
+            "cityEn": "PORT SAID",
+            "id": 1250,
+            "cityCn": "塞得",
+            "countryCn": "埃及"
+        },
+        {
+            "countryCode": "SUDAN",
+            "cityEn": "PORT SUDAN",
+            "id": 1251,
+            "cityCn": "苏丹",
+            "countryCn": "苏丹"
+        },
+        {
+            "countryCode": "VANUATU",
+            "cityEn": "PORT VILA",
+            "id": 1252,
+            "cityCn": "维拉港",
+            "countryCn": "瓦努阿图"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PORT WENTWORTH,GA",
+            "id": 1253,
+            "cityCn": "文特沃思港,佐治亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "PORTBURY",
+            "id": 1254,
+            "cityCn": "波尔特布里",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PORTLAND,OR",
+            "id": 1255,
+            "cityCn": "波特兰,俄勒冈州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "PORTO SEGURO",
+            "id": 1256,
+            "cityCn": "塞古鲁港",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "PORTSMOUTH,VA",
+            "id": 1257,
+            "cityCn": "朴茨茅斯,弗吉尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "GEORGIA",
+            "cityEn": "POTI",
+            "id": 1258,
+            "cityCn": "波提",
+            "countryCn": "格鲁吉亚"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "PRATO",
+            "id": 1263,
+            "cityCn": "普拉托",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "SOUTH AFRICA",
+            "cityEn": "PRETORIA",
+            "id": 1265,
+            "cityCn": "比勒陀利亚",
+            "countryCn": "南非"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "PRINCE RUPERT,BC",
+            "id": 1267,
+            "cityCn": "鲁珀特港",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "PUERTO ANGAMOS",
+            "id": 1271,
+            "cityCn": "安加莫斯",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "GUATEMALA",
+            "cityEn": "PUERTO BARRIOS",
+            "id": 1272,
+            "cityCn": "巴里奥斯",
+            "countryCn": "危地马拉"
+        },
+        {
+            "countryCode": "VENEZUELA",
+            "cityEn": "PUERTO CABELLO",
+            "id": 1273,
+            "cityCn": "卡贝略",
+            "countryCn": "委内瑞拉"
+        },
+        {
+            "countryCode": "COSTA RICA",
+            "cityEn": "PUERTO CALDERA",
+            "id": 1274,
+            "cityCn": "卡尔德拉",
+            "countryCn": "哥斯达黎加"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "PUERTO CHACABUCO",
+            "id": 2074,
+            "cityCn": "查卡布科港",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "HONDURAS",
+            "cityEn": "PUERTO CORTES",
+            "id": 1275,
+            "cityCn": "科尔特斯",
+            "countryCn": "洪都拉斯"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "PUERTO DEL ROSARIO",
+            "id": 1276,
+            "cityCn": "罗萨里奥港",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "ARGENTINA",
+            "cityEn": "PUERTO DESEADO",
+            "id": 1277,
+            "cityCn": "德塞阿多港",
+            "countryCn": "阿根廷"
+        },
+        {
+            "countryCode": "COSTA RICA",
+            "cityEn": "PUERTO LIMON",
+            "id": 1278,
+            "cityCn": "利蒙港",
+            "countryCn": "哥斯达黎加"
+        },
+        {
+            "countryCode": "ARGENTINA",
+            "cityEn": "PUERTO MADRYN",
+            "id": 1279,
+            "cityCn": "马德林港",
+            "countryCn": "阿根廷"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "PUERTO MONTT",
+            "id": 2075,
+            "cityCn": "蒙特港",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "PUERTO MORELOS",
+            "id": 1280,
+            "cityCn": "莫雷特斯",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "GUATEMALA",
+            "cityEn": "PUERTO QUETZAL",
+            "id": 1281,
+            "cityCn": "库特扎尔",
+            "countryCn": "危地马拉"
+        },
+        {
+            "countryCode": "PARAGUAY",
+            "cityEn": "PUERTO SAN JOSE",
+            "id": 1282,
+            "cityCn": "圣何塞",
+            "countryCn": "巴拉圭"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "PUNTA ARENAS",
+            "id": 1284,
+            "cityCn": "蓬塔阿雷纳斯",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "COSTA RICA",
+            "cityEn": "PUNTARENAS",
+            "id": 1285,
+            "cityCn": "彭塔雷纳斯",
+            "countryCn": "哥斯达黎加"
+        },
+        {
+            "countryCode": "KOREA, REPUBLIC OF",
+            "cityEn": "PYEONGTAEK",
+            "id": 1286,
+            "cityCn": "平泽",
+            "countryCn": "韩国"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "QUERETARO",
+            "id": 1292,
+            "cityCn": "克雷塔罗",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "COOK ISLANDS",
+            "cityEn": "RAROTONGA",
+            "id": 1300,
+            "cityCn": "拉罗汤加岛",
+            "countryCn": "库克群岛"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "RATLAM",
+            "id": 1302,
+            "cityCn": "勒德兰",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "RENTON,WA",
+            "id": 1310,
+            "cityCn": "伦顿,华盛顿州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "VIRGIN ISLANDS, BRITISH",
+            "cityEn": "ROAD TOWN",
+            "id": 1328,
+            "cityCn": "罗德城",
+            "countryCn": "英属维尔京群岛"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ROANOKE,TX",
+            "id": 1329,
+            "cityCn": "罗阿诺克,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "HONDURAS",
+            "cityEn": "ROATAN",
+            "id": 1330,
+            "cityCn": "罗阿坦",
+            "countryCn": "洪都拉斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ROCHESTER,NY",
+            "id": 1332,
+            "cityCn": "罗切斯特",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "ROSARITO",
+            "id": 1340,
+            "cityCn": "罗萨里托",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "ROSTOV",
+            "id": 1344,
+            "cityCn": "罗斯托夫",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "NETHERLANDS",
+            "cityEn": "ROTTERDAM",
+            "id": 1346,
+            "cityCn": "鹿特丹",
+            "countryCn": "荷兰"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ROTTERDAM JUNCTION,NY",
+            "id": 1347,
+            "cityCn": "鹿特丹章克申,纽约州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "ROTTERDAM,NY",
+            "id": 1345,
+            "cityCn": "鹿特丹,纽约州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "SAGUNTO",
+            "id": 1353,
+            "cityCn": "萨贡托",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "GUADELOUPE",
+            "cityEn": "SAINT BARTHELEMY",
+            "id": 1356,
+            "cityCn": "圣巴泰勒米岛",
+            "countryCn": "瓜德罗普（法属）"
+        },
+        {
+            "countryCode": "VIRGIN ISLANDS, U.S.",
+            "cityEn": "SAINT CROIX",
+            "id": 1357,
+            "cityCn": "圣克洛伊岛",
+            "countryCn": "美属维尔京群岛"
+        },
+        {
+            "countryCode": "GRENADA",
+            "cityEn": "SAINT GEORGE'S",
+            "id": 1358,
+            "cityCn": "圣乔治",
+            "countryCn": "格林纳达"
+        },
+        {
+            "countryCode": "ANTIGUA AND BARBUDA",
+            "cityEn": "SAINT JOHN'S",
+            "id": 2054,
+            "cityCn": "圣约翰斯",
+            "countryCn": "安提瓜和巴布达"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "SAINT JOHN,NB",
+            "id": 1359,
+            "cityCn": "圣约翰,新不伦瑞克省",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "JERSEY",
+            "cityEn": "SAINT JOHNS",
+            "id": 1360,
+            "cityCn": "圣约翰斯"
+        },
+        {
+            "countryCode": "SAINT KITTS AND NEVIS",
+            "cityEn": "SAINT KITTS",
+            "id": 1361,
+            "cityCn": "圣基茨岛",
+            "countryCn": "圣基茨和尼维斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SAINT LOUIS,MO",
+            "id": 1362,
+            "cityCn": "圣路易斯,密苏里州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SAINT PAUL,MN",
+            "id": 1363,
+            "cityCn": "圣保罗-明尼苏达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "SAINT PETERSBURG",
+            "id": 1364,
+            "cityCn": "圣彼得堡",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SAINT PETERSBURG,FL",
+            "id": 1365,
+            "cityCn": "圣彼得堡",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "JAMAICA",
+            "cityEn": "SAINT THOMAS",
+            "id": 1366,
+            "cityCn": "圣托马斯",
+            "countryCn": "牙买加"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "SAKAIMINATO",
+            "id": 1369,
+            "cityCn": "境港",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "SAKATA",
+            "id": 1371,
+            "cityCn": "酒田",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "SALINAS VICTORIA",
+            "id": 1375,
+            "cityCn": "萨利纳斯维多利亚",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SALT LAKE CITY,UT",
+            "id": 1376,
+            "cityCn": "盐湖城,犹他州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "NORWAY",
+            "cityEn": "SALTEN",
+            "id": 1377,
+            "cityCn": "萨尔滕",
+            "countryCn": "挪威"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "SALTILLO",
+            "id": 1378,
+            "cityCn": "萨尔蒂",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SAN ANGELO,TX",
+            "id": 1385,
+            "cityCn": "圣安吉洛,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "SAN ANTONIO",
+            "id": 1387,
+            "cityCn": "圣安东尼奥,智利",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "ARGENTINA",
+            "cityEn": "SAN ANTONIO ESTE",
+            "id": 1388,
+            "cityCn": "东圣安东尼奥",
+            "countryCn": "阿根廷"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SAN ANTONIO,TX",
+            "id": 1386,
+            "cityCn": "圣安东尼奥,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SAN JUAN BAUTISTA,CA",
+            "id": 1396,
+            "cityCn": "圣胡安 包蒂斯塔,加利福尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SAN JUAN CAPISTRANO,CA",
+            "id": 1397,
+            "cityCn": "圣胡安 卡皮斯特拉诺,加利福尼亚州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MEXICO",
+            "cityEn": "SAN LUIS POTOSI",
+            "id": 1404,
+            "cityCn": "圣路易斯波托西",
+            "countryCn": "墨西哥"
+        },
+        {
+            "countryCode": "EL SALVADOR",
+            "cityEn": "SAN VICENTE",
+            "id": 1409,
+            "cityCn": "圣维森特",
+            "countryCn": "萨尔瓦多"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "SAN VICENTE",
+            "id": 1410,
+            "cityCn": "圣文森特,智利",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "SAN VICENTE DE CASTELLET",
+            "id": 1411,
+            "cityCn": "圣维森特德斯特雷",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "SAN VICENTE DELS HORTS",
+            "id": 1412,
+            "cityCn": "圣维森特德尔斯奥茨",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "SANATHNAGAR",
+            "id": 1415,
+            "cityCn": "特伦甘地",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "EL SALVADOR",
+            "cityEn": "SANTA ANA",
+            "id": 1418,
+            "cityCn": "圣安娜",
+            "countryCn": "萨尔瓦多"
+        },
+        {
+            "countryCode": "BOLIVIA, PLURINATIONAL STATE OF",
+            "cityEn": "SANTA CRUZ",
+            "id": 1420,
+            "cityCn": "圣克鲁斯",
+            "countryCn": "玻利维亚"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "SANTA CRUZ DE TENERIFE",
+            "id": 1421,
+            "cityCn": "圣克鲁斯-德特内里费",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SANTA CRUZ,CA",
+            "id": 1419,
+            "cityCn": "圣克鲁斯",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ARGENTINA",
+            "cityEn": "SANTA FE",
+            "id": 1422,
+            "cityCn": "圣菲",
+            "countryCn": "阿根廷"
+        },
+        {
+            "countryCode": "COLOMBIA",
+            "cityEn": "SANTA MARTA",
+            "id": 1423,
+            "cityCn": "圣玛尔塔",
+            "countryCn": "哥伦比亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SANTA PAULA",
+            "id": 1424,
+            "cityCn": "韦斯特菲尔德",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SANTA TERESA,NM",
+            "id": 1425,
+            "cityCn": "圣特雷莎,新墨西哥州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "SANTAFE",
+            "id": 1426,
+            "cityCn": "圣达菲",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "SANTANA",
+            "id": 1427,
+            "cityCn": "圣塔那",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "SANTANDER",
+            "id": 1428,
+            "cityCn": "桑坦德",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "CUBA",
+            "cityEn": "SANTIAGO",
+            "id": 1429,
+            "cityCn": "圣地亚哥,古巴",
+            "countryCn": "古巴"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "SANTIAGO",
+            "id": 1430,
+            "cityCn": "圣地亚哥,智利",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "VANUATU",
+            "cityEn": "SANTO",
+            "id": 1431,
+            "cityCn": "桑托岛",
+            "countryCn": "瓦努阿图"
+        },
+        {
+            "countryCode": "DOMINICAN REPUBLIC",
+            "cityEn": "SANTO DOMINGO",
+            "id": 1433,
+            "cityCn": "圣多明各",
+            "countryCn": "多米尼加"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "SANTO DOMINGO DE LA CALZADA",
+            "id": 1434,
+            "cityCn": "圣多明各－德拉卡尔萨达",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "SANTO STEFANO BELBO",
+            "id": 1435,
+            "cityCn": "圣斯泰法诺贝尔博",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "SANTO STINO DI LIVENZA",
+            "id": 1436,
+            "cityCn": "圣斯蒂诺迪利文扎",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "PORTUGAL",
+            "cityEn": "SANTO TIRSO",
+            "id": 1437,
+            "cityCn": "圣蒂尔苏",
+            "countryCn": "葡萄牙"
+        },
+        {
+            "countryCode": "GUATEMALA",
+            "cityEn": "SANTO TOMAS DE CASTILLA",
+            "id": 1438,
+            "cityCn": "圣托马斯德卡斯蒂利亚",
+            "countryCn": "危地马拉"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SANTO,TX",
+            "id": 1432,
+            "cityCn": "桑托,德克萨斯州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "BRAZIL",
+            "cityEn": "SANTOS",
+            "id": 1439,
+            "cityCn": "桑托斯",
+            "countryCn": "巴西"
+        },
+        {
+            "countryCode": "SAO TOME AND PRINCIPE",
+            "cityEn": "SAO TOME",
+            "id": 1441,
+            "cityCn": "圣多美",
+            "countryCn": "圣多美和普林西比"
+        },
+        {
+            "countryCode": "CANADA",
+            "cityEn": "SASKATOON,SK",
+            "id": 1445,
+            "cityCn": "萨斯卡通",
+            "countryCn": "加拿大"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "SATSUMASENDAI",
+            "id": 1446,
+            "cityCn": "萨摩川内市",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SAULT SAINTE MARIE,MI",
+            "id": 1448,
+            "cityCn": "苏圣玛丽",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "cityEn": "SAVANNAKHET",
+            "id": 1450,
+            "cityCn": "沙湾拿吉",
+            "countryCn": "老挝"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SEATTLE,WA",
+            "id": 1453,
+            "cityCn": "西雅图,华盛顿州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "SEGRATE",
+            "id": 1454,
+            "cityCn": "塞葛拉特",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "KAZAKHSTAN",
+            "cityEn": "SEMIPALATINSK",
+            "id": 1457,
+            "cityCn": "谢米巴拉金斯克",
+            "countryCn": "哈萨克斯坦"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "SESTO CALENDE",
+            "id": 1460,
+            "cityCn": "塞斯托卡伦代",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "PORTUGAL",
+            "cityEn": "SETUBAL",
+            "id": 1461,
+            "cityCn": "塞图巴尔",
+            "countryCn": "葡萄牙"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SHELBURNE,VT",
+            "id": 1469,
+            "cityCn": "谢尔本,佛蒙特州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SHREVEPORT,LA",
+            "id": 1477,
+            "cityCn": "什里夫波特,路易斯安那州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SITKA,AK",
+            "id": 1485,
+            "cityCn": "锡特卡",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "SWEDEN",
+            "cityEn": "SODERTALJE",
+            "id": 1487,
+            "cityCn": "索德塔尔杰",
+            "countryCn": "瑞典"
+        },
+        {
+            "countryCode": "AZERBAIJAN",
+            "cityEn": "SOMQAYIT",
+            "id": 1492,
+            "cityCn": "苏姆盖特",
+            "countryCn": "阿塞拜疆"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SOUTH BEND,IN",
+            "id": 1498,
+            "cityCn": "南本德,印第安那州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "TURKS AND CAICOS ISLANDS",
+            "cityEn": "SOUTH CAICOS",
+            "id": 1499,
+            "cityCn": "南凯科斯",
+            "countryCn": "特克斯和凯科斯群岛"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SOUTH KEARNY,NJ",
+            "id": 1500,
+            "cityCn": "卡尼,新泽西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "SOUTH OCKENDON",
+            "id": 1501,
+            "cityCn": "南奥肯登",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "SOUTH SHIELDS",
+            "id": 1502,
+            "cityCn": "南希尔兹",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "SOUTHAMPTON",
+            "id": 1504,
+            "cityCn": "南安普顿",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SOUTHAMPTON,NY",
+            "id": 1503,
+            "cityCn": "南安普敦,纽约州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SOUTHARD,OK",
+            "id": 1505,
+            "cityCn": "绍瑟德,俄克拉何马州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "CROATIA",
+            "cityEn": "SPLIT",
+            "id": 1507,
+            "cityCn": "斯普利特",
+            "countryCn": "克罗地亚"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SPRINGFIELD,TN",
+            "id": 1508,
+            "cityCn": "斯普林菲尔德,田纳西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "STATESVILLE,NC",
+            "id": 1509,
+            "cityCn": "斯泰茨维尔,北卡罗来纳州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "NORWAY",
+            "cityEn": "STAVANGER",
+            "id": 1510,
+            "cityCn": "斯塔万格",
+            "countryCn": "挪威"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "STERLITAMAK",
+            "id": 1511,
+            "cityCn": "斯捷尔利塔马克",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "SWEDEN",
+            "cityEn": "STOCKHOLM",
+            "id": 1512,
+            "cityCn": "斯德哥尔摩",
+            "countryCn": "瑞典"
+        },
+        {
+            "countryCode": "FRANCE",
+            "cityEn": "STRASBOURG",
+            "id": 1513,
+            "cityCn": "斯特拉斯堡",
+            "countryCn": "法国"
+        },
+        {
+            "countryCode": "GERMANY",
+            "cityEn": "STUTTGART",
+            "id": 1514,
+            "cityCn": "斯图加特",
+            "countryCn": "德国"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "SURAT",
+            "id": 1524,
+            "cityCn": "苏拉特",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "SURGOINSVILLE,TN",
+            "id": 1525,
+            "cityCn": "瑟高因斯维尔,田纳西州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "SURGUT",
+            "id": 1526,
+            "cityCn": "苏尔古特",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "RUSSIAN FEDERATION",
+            "cityEn": "SYKTYVKAR",
+            "id": 1532,
+            "cityCn": "瑟克特夫卡尔",
+            "countryCn": "俄罗斯"
+        },
+        {
+            "countryCode": "POLAND",
+            "cityEn": "SZAMOTULY",
+            "id": 1533,
+            "cityCn": "沙莫图维",
+            "countryCn": "波兰"
+        },
+        {
+            "countryCode": "IRAN, ISLAMIC REPUBLIC OF",
+            "cityEn": "TABRIZ",
+            "id": 1535,
+            "cityCn": "大不里士",
+            "countryCn": "伊朗"
+        },
+        {
+            "countryCode": "PHILIPPINES",
+            "cityEn": "TACLOBAN",
+            "id": 1536,
+            "cityCn": "塔克洛班",
+            "countryCn": "菲律宾"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "TACOMA,WA",
+            "id": 1537,
+            "cityCn": "塔科马,华盛顿州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "PHILIPPINES",
+            "cityEn": "TAGBILARAN",
+            "id": 1538,
+            "cityCn": "塔比拉兰",
+            "countryCn": "菲律宾"
+        },
+        {
+            "countryCode": "TAIWAN, PROVINCE OF CHINA",
+            "cityEn": "TAICHUNG",
+            "id": 1539,
+            "cityCn": "台中",
+            "countryCn": "台湾"
+        },
+        {
+            "countryCode": "TAIWAN, PROVINCE OF CHINA",
+            "cityEn": "TAIPEI",
+            "id": 1540,
+            "cityCn": "台北",
+            "countryCn": "台湾"
+        },
+        {
+            "countryCode": "JAPAN",
+            "cityEn": "TAKAMATSU",
+            "id": 1541,
+            "cityCn": "高松",
+            "countryCn": "日本"
+        },
+        {
+            "countryCode": "GHANA",
+            "cityEn": "TAKORADI",
+            "id": 1542,
+            "cityCn": "塔科拉迪",
+            "countryCn": "加纳"
+        },
+        {
+            "countryCode": "CHILE",
+            "cityEn": "TALCAHUANO",
+            "id": 1543,
+            "cityCn": "塔尔卡瓦诺",
+            "countryCn": "智利"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "TALEGAON DABHADE",
+            "id": 1544,
+            "cityCn": "德莱冈",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "ESTONIA",
+            "cityEn": "TALLINN",
+            "id": 1545,
+            "cityCn": "塔林",
+            "countryCn": "爱沙尼亚"
+        },
+        {
+            "countryCode": "MADAGASCAR",
+            "cityEn": "TAMATAVE",
+            "id": 1546,
+            "cityCn": "塔马塔夫",
+            "countryCn": "马达加斯加"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "TAMPA,FL",
+            "id": 1547,
+            "cityCn": "坦帕,佛罗里达州",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "TAMWORTH",
+            "id": 1548,
+            "cityCn": "塔姆沃思",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "NORWAY",
+            "cityEn": "TANANGER",
+            "id": 1549,
+            "cityCn": "塔南厄尔",
+            "countryCn": "挪威"
+        },
+        {
+            "countryCode": "TANZANIA, UNITED REPUBLIC OF",
+            "cityEn": "TANGA",
+            "id": 1550,
+            "cityCn": "坦噶",
+            "countryCn": "坦桑尼亚"
+        },
+        {
+            "countryCode": "MOROCCO",
+            "cityEn": "TANGIER",
+            "id": 1551,
+            "cityCn": "丹吉尔",
+            "countryCn": "摩洛哥"
+        },
+        {
+            "countryCode": "UNITED STATES",
+            "cityEn": "TANGIER",
+            "id": 1552,
+            "cityCn": "彼得斯堡",
+            "countryCn": "美国"
+        },
+        {
+            "countryCode": "MALAYSIA",
+            "cityEn": "TANJUNG MANIS",
+            "id": 1553,
+            "cityCn": "丹戎马尼港",
+            "countryCn": "马来西亚"
+        },
+        {
+            "countryCode": "MALAYSIA",
+            "cityEn": "TANJUNG PELEPAS",
+            "id": 1554,
+            "cityCn": "丹戎帕拉帕斯",
+            "countryCn": "马来西亚"
+        },
+        {
+            "countryCode": "TAIWAN, PROVINCE OF CHINA",
+            "cityEn": "TAOYUAN",
+            "id": 1555,
+            "cityCn": "桃园",
+            "countryCn": "台湾"
+        },
+        {
+            "countryCode": "ITALY",
+            "cityEn": "TARANTO",
+            "id": 1556,
+            "cityCn": "塔兰托",
+            "countryCn": "意大利"
+        },
+        {
+            "countryCode": "INDIA",
+            "cityEn": "TARAPUR",
+            "id": 1557,
+            "cityCn": "达拉布尔",
+            "countryCn": "印度"
+        },
+        {
+            "countryCode": "KIRIBATI",
+            "cityEn": "TARAWA",
+            "id": 1558,
+            "cityCn": "塔拉瓦",
+            "countryCn": "基里巴斯"
+        },
+        {
+            "countryCode": "SPAIN",
+            "cityEn": "TARRAGONA",
+            "id": 1559,
+            "cityCn": "塔拉戈纳",
+            "countryCn": "西班牙"
+        },
+        {
+            "countryCode": "SYRIAN ARAB REPUBLIC",
+            "cityEn": "TARTUS",
+            "id": 1560,
+            "cityCn": "塔图斯",
+            "countryCn": "叙利亚"
+        },
+        {
+            "countryCode": "UZBEKISTAN",
+            "cityEn": "TASHKENT",
+            "id": 1561,
+            "cityCn": "塔什干",
+            "countryCn": "乌兹别克斯坦"
+        },
+        {
+            "countryCode": "NEW ZEALAND",
+            "cityEn": "TAURANGA",
+            "id": 1562,
+            "cityCn": "陶朗阿",
+            "countryCn": "新西兰"
+        },
+        {
+            "countryCode": "MALAYSIA",
+            "cityEn": "TAWAU",
+            "id": 1563,
+            "cityCn": "斗湖",
+            "countryCn": "马来西亚"
+        },
+        {
+            "countryCode": "INDONESIA",
+            "cityEn": "TEBING TINGGI JAMBI",
+            "id": 1564,
+            "cityCn": "直名丁宜",
+            "countryCn": "印度尼西亚"
+        },
+        {
+            "countryCode": "UNITED KINGDOM",
+            "cityEn": "TEESPORT",
+            "id": 1565,
+            "cityCn": "提兹港",
+            "countryCn": "英国"
+        },
+        {
+            "countryCode": "HONDURAS",
+            "cityEn": "TEGUCIGALPA",
+            "id": 1566,
+            "cityCn": "特古西加尔巴",
+            "countryCn": "洪都拉斯"
+        },
+        {
+            "countryCode": "IRAN, ISLAMIC REPUBLIC OF",
+            "cityEn": "TEHRAN",
+            "id": 1567,
+            "cityCn": "德黑兰",
+            "countryCn": "伊朗"
+        },
+        {
+            "countryCode": "TURKEY",
+            "cityEn": "TEKIRDAG",
+            "id": 1568,
+            "cityCn": "泰基尔达",
+            "countryCn": "土耳其"
+        },
+        {
+            "countryCode": "ISRAEL",
+            "cityEn": "TEL AVIV",
+            "id": 1569,
+            "cityCn": "特拉维夫",
+            "countryCn": "以色列"
+        }
+    ],
+    "message": "SUCCESS"
+}

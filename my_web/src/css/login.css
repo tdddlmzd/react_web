@@ -116,25 +116,6 @@
     top: 100%;
     left: 0;
 }
-input::-webkit-input-placeholder {
-    /* WebKit browsers */
-    color: #909090;
-}
-  
-input:-moz-placeholder {
-    /* Mozilla Firefox 4 to 18 */
-    color: #909090;
-}
-
-input::-moz-placeholder {
-    /* Mozilla Firefox 19+ */
-    color: #909090;
-}
-
-input::-ms-input-placeholder {
-    /* Internet Explorer 10+ */
-    color: #909090;
-}
 .login_login{
     width: 100%;
     margin-top: 140px;

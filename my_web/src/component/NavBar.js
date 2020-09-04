@@ -15,7 +15,7 @@
                         <li className='navBar_mainH_li'>
                           <p className='navBar_mainH_li_p1'>船期</p>
                           {
-                            currentPath == '/list' ? <p className='navBar_mainH_li_p2'></p> : <p className='navBar_mainH_li_p3'></p>
+                            currentPath === '/list' ? <p className='navBar_mainH_li_p2'></p> : <p className='navBar_mainH_li_p3'></p>
                           }
                         </li>
                       </NavLink>
@@ -23,7 +23,7 @@
                           <li className='navBar_mainH_li'>
                             <p className='navBar_mainH_li_p1'>下载</p>
                             {
-                              currentPath == '/download' ? <p className='navBar_mainH_li_p2'></p> : <p className='navBar_mainH_li_p3'></p>
+                              currentPath === '/download' ? <p className='navBar_mainH_li_p2'></p> : <p className='navBar_mainH_li_p3'></p>
                             }
                         </li>
                       </NavLink>
@@ -31,7 +31,7 @@
                           <li className='navBar_mainH_li'>
                             <p className='navBar_mainH_li_p1'>任务</p>
                             {
-                              currentPath == '/' ? <p className='navBar_mainH_li_p2'></p> : <p className='navBar_mainH_li_p3'></p>
+                              currentPath === '/' ? <p className='navBar_mainH_li_p2'></p> : <p className='navBar_mainH_li_p3'></p>
                             }
                         </li>
                       </NavLink>
