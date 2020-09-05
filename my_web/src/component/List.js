@@ -58,8 +58,8 @@ class List extends React.Component {
   getDate(){
     axios.get('http://localhost:3000/json/list/Dalian_HongKong.json').then((res) => {
       console.log(res,'res')
-      if(res.date.status === 1){
-        var direct = res.date.content.direct.length > 0 ? res.date.content.direct : []
+      if(res.data.status === 1){
+        var direct = res.data.content.direct.length > 0 ? res.data.content.direct : []
         var directList = []
         for (let i = 0; i < direct.length; i++) {
           directList.push({
@@ -74,23 +74,27 @@ class List extends React.Component {
             voyage: direct[i].voyage,
             sameRoute: direct[i].sameRoute,
             routeCodeList: direct[i].routeCodeList,
+            traceStatus: direct[i].traceStatus,
+            isLate: direct[i].isLate
           })
         }
-        var transit = res.date.content.transit.length > 0 ? res.date.content.transit : []
+        var transit = res.data.content.transit.length > 0 ? res.data.content.transit : []
         var transitList = []
         for (let j = 0; j < transit.length; j++) {
           transitList.push({
-            pathId: direct[i].pathId,
-            id: direct[i].id,
-            staticEtdSort: direct[i].staticEtdSort,
-            staticEtaSort: direct[i].staticEtaSort,
-            polTerninal: direct[i].polTerninal,
-            podTerninal: direct[i].podTerninal,
-            transTime: direct[i].transTime,
-            vessel: direct[i].vessel,
-            voyage: direct[i].voyage,
-            sameRoute: direct[i].sameRoute,
-            routeCodeList: direct[i].routeCodeList,
+            pathId: transit[j].pathId,
+            id: transit[j].id,
+            staticEtdSort: transit[j].staticEtdSort,
+            staticEtaSort: transit[j].staticEtaSort,
+            polTerninal: transit[j].polTerninal,
+            podTerninal: transit[j].podTerninal,
+            transTime: transit[j].transTime,
+            vessel: transit[j].vessel,
+            voyage: transit[j].voyage,
+            sameRoute: transit[j].sameRoute,
+            routeCodeList: transit[j].routeCodeList,
+            traceStatus: transit[j].traceStatus,
+            isLate: transit[j].isLate
           })          
         }
         this.setState({
@@ -106,7 +110,7 @@ class List extends React.Component {
     this.getDate()
   }
   render() {
-    var { isShowQis, isShowmud, qisCity, mudCity} = this.state
+    var { isShowQis, isShowmud, qisCity, mudCity, direct, transit} = this.state
     return (
       <div className='list'>
         <div className='list_head'>
@@ -162,50 +166,51 @@ class List extends React.Component {
               <li className='list_main_head_li li_head5'>头程大船动态</li>
               <li className='list_main_head_li li_head6'>详情</li>
             </ul>
-            <ul className='list_main_data_ul'>
-              <li className='list_main_direct_li direct__head1'>
-                <p className='direct__head1_p'>
-                  <img src={require("../image/list/ACIC.png")} className='direct__head1_img' alt=''/>
-                  <span className='direct__head1_span'></span>
-                </p>
-                <p className='direct__head1_p'>
-                  <img src={require("../image/list/ACIC.png")} className='direct__head1_img' alt=''/>
-                  <span className='direct__head1_span'></span>
-                </p>
-                <p className='direct__head1_p'>
-                  <img src={require("../image/list/ACIC.png")} className='direct__head1_img' alt=''/>
-                  <span className='direct__head1_span'></span>
-                </p>
-                <p className='direct__head1_p'>
-                  <img src={require("../image/list/ACIC.png")} className='direct__head1_img' alt=''/>
-                </p>
-              </li>
-              <li className='list_main_direct_li direct__head2'>
-                <p className='direct__head_p1'>周一(08-31)</p>
-                <p className='direct__head_p2'>外港</p>
-              </li>
-              <li className='list_main_direct_li direct__head3'>
-                <p className='direct__head3_p1'>7天</p>
-                <p className='direct__head3_p2'></p>
-                <p className='direct__head3_p3'>直达</p>
-              </li>
-              <li className='list_main_direct_li direct__head4'>
-                <p className='direct__head_p1'>周一(08-31)</p>
-                <p className='direct__head_p2'>外港</p>
-              </li>
-              <li className='list_main_direct_li direct__head5'>
-                <div className='direct__head5_div'>
-                  <div className='direct__head5_p1'>
-                    <p className='direct__head5_p1_img'></p>
-                    <p className='direct__head5_p1_p'>ETD: 09-03 00:00</p>
-                  </div>
-                  <div className='direct__head5_p2'>船名/航次:SINOTRANS DALIAN/2036E</div>
-                </div>
-              </li>
-              <li className='list_main_direct_li direct__head6'>
-                <p className='direct__head6_p'>详情</p>
-              </li>
-            </ul>
+            {
+              direct.map(item =>{
+                return (
+                  <ul className='list_main_data_ul' key={item.id}>
+                    <li className='list_main_direct_li direct__head1'>
+                      {
+                        item.sameRoute.map(sameRoute =>{
+                          return (
+                            <p className='direct__head1_p' key={sameRoute.staticId}>
+                              <img src={require("../image/list/ACIC.png")} className='direct__head1_img' alt=''/>
+                              <span className='direct__head1_span'></span>
+                            </p>
+                          )
+                        })
+                      }
+                    </li>
+                    <li className='list_main_direct_li direct__head2'>
+                      <p className='direct__head_p1'>周一(08-31)</p>
+                      <p className='direct__head_p2'>{item.polTerninal}</p>
+                    </li>
+                    <li className='list_main_direct_li direct__head3'>
+                    <p className='direct__head3_p1'>{item.transTime ? item.transTime + '天' : ''}</p>
+                      <p className='direct__head3_p2'></p>
+                      <p className='direct__head3_p3'>{item.traceStatus === 0 ? '直达' : '中转'}</p>
+                    </li>
+                    <li className='list_main_direct_li direct__head4'>
+                      <p className='direct__head_p1'>周一(08-31)</p>
+                      <p className='direct__head_p2'>{item.podTerninal}</p>
+                    </li>
+                    <li className='list_main_direct_li direct__head5'>
+                      <div className='direct__head5_div'>
+                        <div className='direct__head5_p1'>
+                          <p className='direct__head5_p1_img'></p>
+                          <p className='direct__head5_p1_p'>ETD: 09-03 00:00</p>
+                        </div>
+                        <div className='direct__head5_p2'>船名/航次:SINOTRANS DALIAN/2036E</div>
+                      </div>
+                    </li>
+                    <li className='list_main_direct_li direct__head6'>
+                      <p className='direct__head6_p'>详情</p>
+                    </li>
+                  </ul>
+                )
+              })
+            }
         </div>
       </div>
     )
