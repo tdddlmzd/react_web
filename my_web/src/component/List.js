@@ -162,7 +162,6 @@ class List extends React.Component {
                   {
                     qisCity.length > 0 ?
                       qisCity.map(item => {
-                        var self = this
                         return <p className='list_content_input_div1_p' key={item.portCode} onMouseOver={this.mouseover.bind(this)} onMouseOut={this.mouseout.bind(this)} onClick={this.qiClick.bind(this)}>{item.nameCn + '(' + item.nameEn + ')'}</p>
                       })
                       :
