@@ -24,7 +24,7 @@ class List extends React.Component {
     qisJson: '', //起始港json
     mudValue: '', //目的港value
     mudJson: '', //目的港json
-    isShowSlect: false, //下拉框是否显示
+    isShowSlect: true, //下拉框是否显示
   }
   //起始港focues
   qisFoucus(){
