@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from '../component/NavBar'
 import axios from 'axios';
-
+const localAddress = 'http://localhost:3000/json'
 class List extends React.Component {
   state = {
     isShowQis: false,//起始港下拉框
@@ -20,6 +20,10 @@ class List extends React.Component {
     mudCity: [], //目的港选择
     direct: [], //直达数据
     transit: [], //中转数据
+    qisValue: '', //起始港value
+    qisJson: '', //起始港json
+    mudValue: '', //目的港value
+    mudJson: '', //目的港json
   }
   //起始港focues
   qisFoucus(){
@@ -29,25 +33,71 @@ class List extends React.Component {
   }
   //起始港input离开
   qisBlur(){
-    this.setState({
-      isShowQis: false
-    })
+    // console.log('1111')
   }
   qiClick(item){
-    console.log('11111111')
-    console.log(item)
+    this.setState({
+      qisValue: item.nameCn + '(' + item.nameEn + ')',
+      qisJson: item.nameEn,
+      isShowQis: false
+    })
   }
   //目的港focues
   mudFoucus(){
     this.setState({
       isShowmud: true
+    },()=>{
+      this.portData('')
+    })
+  }
+  // 目的港change
+  mudChange(e){
+    this.setState({
+      mudValue:e.target.value
+    },()=>{
+      this.portData(this.state.mudValue)
+    })
+  }
+  portData(value){
+    axios.get(localAddress+ '/list/cityName.json').then((res) => {
+      if(res.data.status === 1){
+        var dataList = []
+        if(value){
+          dataList = res.data.content.filter(val => {
+            return val.cityEn.indexOf(value.toUpperCase()) !== -1
+          })
+        }else{
+          if(res.data.content.length > 0){
+            dataList = res.data.content
+          }  
+        }
+        if(dataList.length > 0){
+          this.setState({
+            mudCity: dataList.slice(0,11)
+          })
+        }else{
+          this.setState({
+            mudCity: []
+          })
+        }
+      }
+    }).catch(function (error) {
+      console.log(error)
+    })
+  }
+  //目的港下拉框选择
+  mudlick(item){
+    this.setState({
+      mudValue: item.countryCn + '(' + item.cityEn + ')',
+      mudJson: item.cityEn,
+      isShowmud: false
     })
   }
   //目的港input离开
   mudBlur(){
-    this.setState({
-      isShowmud: false
-    })
+    // this.setState({
+    //   isShowmud: false
+    // })
   }
   //鼠标移入
   mouseover(event){
@@ -60,7 +110,7 @@ class List extends React.Component {
     event.target.style = "background:#fff;font-weight:normal"
   }
   getDate(){
-    axios.get('http://localhost:3000/json/list/Dalian_HongKong.json').then((res) => {
+    axios.get(localAddress+'/list/Dalian_HongKong.json').then((res) => {
       console.log(res,'res')
       if(res.data.status === 1){
         var direct = res.data.content.direct.length > 0 ? res.data.content.direct : []
@@ -142,11 +192,23 @@ class List extends React.Component {
       return '--'
     }
   }
+  //查询
+  search(){
+    if(this.state.qisValue && this.state.mudValue){
+
+    }else if(!this.state.qisValue){
+
+    }else if(!this.state.mudValue){
+
+    }else if(!this.state.qisValue && !this.state.mudValue){
+
+    }
+  }
   componentDidMount(){
     this.getDate()
   }
   render() {
-    var { isShowQis, isShowmud, qisCity, mudCity, direct, transit} = this.state
+    var { isShowQis, isShowmud, qisCity, mudCity, direct, transit, qisValue, mudValue} = this.state
     return (
       <div className='list'>
         <div className='list_head'>
@@ -155,14 +217,14 @@ class List extends React.Component {
         <div className='list_content'>
           <div className='list_content_head'>
             <div className="list_content_divIpnut">
-              <input placeholder='请输入起始港' className='list_content_input' onFocus={()=>this.qisFoucus()} onBlur={()=>this.qisBlur()} readOnly/>
+              <input placeholder='请输入起始港' className='list_content_input' onFocus={()=>this.qisFoucus()} onBlur={()=>this.qisBlur()} value={qisValue} readOnly/>
               {
                 isShowQis ? 
                 <div className='list_content_input_div1'>
                   {
                     qisCity.length > 0 ?
                       qisCity.map(item => {
-                        return <p className='list_content_input_div1_p' key={item.portCode} onMouseOver={this.mouseover.bind(this)} onMouseOut={this.mouseout.bind(this)} onClick={this.qiClick.bind(this)}>{item.nameCn + '(' + item.nameEn + ')'}</p>
+                        return <p className='list_content_input_div1_p' key={item.portCode} onMouseOver={this.mouseover.bind(this)} onMouseOut={this.mouseout.bind(this)} onClick={()=>this.qiClick(item)}>{item.nameCn + '(' + item.nameEn + ')'}</p>
                       })
                       :
                       <p className='list_content_input_zwsj'>无数据</p>
@@ -173,14 +235,14 @@ class List extends React.Component {
             </div>
             <div className='list_content_switch_image'></div>
             <div className="list_content_divIpnut">
-              <input placeholder='请输入目的港' className='list_content_input' onFocus={()=>this.mudFoucus()} onBlur={()=>this.mudBlur()}/>
+              <input placeholder='请输入目的港' className='list_content_input' onFocus={()=>this.mudFoucus()} onChange={(event)=>this.mudChange(event)} onBlur={()=>this.mudBlur()} value={mudValue}/>
               {
                 isShowmud ?
                 <div className='list_content_input_div1'>
                   {
                     mudCity.length > 0 ?
-                      mudCity.map(item =>{
-                        return <p className='list_content_input_div1_p'>{item.countryCn + '(' + item.cityEn + ')'}</p>
+                      mudCity.map((item,index) =>{
+                        return <p className='list_content_input_div1_p' key={item.id + '' + index} onMouseOver={this.mouseover.bind(this)} onMouseOut={this.mouseout.bind(this)} onClick={()=>this.mudlick(item)}>{item.countryCn + '(' + item.cityEn + ')'}</p>
                       })
                     :
                     <p className='list_content_input_zwsj'>无数据</p>
@@ -189,7 +251,7 @@ class List extends React.Component {
                 : ''
               }
             </div>
-            <div className='list_content_search'>查询</div>
+            <div className='list_content_search' onClick={()=>this.search()}>查询</div>
           </div>
         </div>
         <div className='list_text'>由SHANGHAI(上海)发往TOKYO(东京)共有27组直航服务，93组中转服务</div>

@@ -46,6 +46,7 @@
     border:1px solid #dcdfe6;
     padding: 6px 0;
     background-color: #fff;
+    overflow: auto;
 }
 .list_content_input_div1_p{
     width: 100%;
