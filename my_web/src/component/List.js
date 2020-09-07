@@ -24,6 +24,7 @@ class List extends React.Component {
     qisJson: '', //起始港json
     mudValue: '', //目的港value
     mudJson: '', //目的港json
+    isShowSlect: false, //下拉框是否显示
   }
   //起始港focues
   qisFoucus(){
@@ -33,7 +34,11 @@ class List extends React.Component {
   }
   //起始港input离开
   qisBlur(){
-    // console.log('1111')
+    if(this.state.isShowSlect){
+      this.setState({
+        isShowQis: false
+      })
+    }
   }
   qiClick(item){
     this.setState({
@@ -95,19 +100,23 @@ class List extends React.Component {
   }
   //目的港input离开
   mudBlur(){
-    // this.setState({
-    //   isShowmud: false
-    // })
+    if(this.state.isShowSlect){
+      this.setState({
+        isShowmud: false
+      })
+    }
   }
   //鼠标移入
   mouseover(event){
     event.persist()
     event.target.style = "background:#dcdfe6;font-weight:600"
+    this.state.isShowSlect = false
   }
   //鼠标移出
   mouseout(event){
     event.persist()
     event.target.style = "background:#fff;font-weight:normal"
+    this.state.isShowSlect = true
   }
   getDate(jsonText){
     axios.get(localAddress+'/list/' + jsonText + '.json').then((res) => {
