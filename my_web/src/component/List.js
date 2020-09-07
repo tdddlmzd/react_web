@@ -109,8 +109,8 @@ class List extends React.Component {
     event.persist()
     event.target.style = "background:#fff;font-weight:normal"
   }
-  getDate(){
-    axios.get(localAddress+'/list/Dalian_HongKong.json').then((res) => {
+  getDate(jsonText){
+    axios.get(localAddress+'/list/' + jsonText + '.json').then((res) => {
       console.log(res,'res')
       if(res.data.status === 1){
         var direct = res.data.content.direct.length > 0 ? res.data.content.direct : []
@@ -195,7 +195,10 @@ class List extends React.Component {
   //查询
   search(){
     if(this.state.qisValue && this.state.mudValue){
-
+      console.log(this.state.qisJson)
+      console.log(this.state.mudJson)
+      var jsonText = this.state.qisJson + '_' + this.state.mudJson.replace(" ", "")
+      this.getDate(jsonText)
     }else if(!this.state.qisValue){
 
     }else if(!this.state.mudValue){
@@ -205,7 +208,7 @@ class List extends React.Component {
     }
   }
   componentDidMount(){
-    this.getDate()
+    this.getDate('DALIAN_TOKYO')
   }
   render() {
     var { isShowQis, isShowmud, qisCity, mudCity, direct, transit, qisValue, mudValue} = this.state
@@ -223,8 +226,8 @@ class List extends React.Component {
                 <div className='list_content_input_div1'>
                   {
                     qisCity.length > 0 ?
-                      qisCity.map(item => {
-                        return <p className='list_content_input_div1_p' key={item.portCode} onMouseOver={this.mouseover.bind(this)} onMouseOut={this.mouseout.bind(this)} onClick={()=>this.qiClick(item)}>{item.nameCn + '(' + item.nameEn + ')'}</p>
+                      qisCity.map((item,index) => {
+                        return <p className='list_content_input_div1_p' key={item.portCode + '' + index} onMouseOver={this.mouseover.bind(this)} onMouseOut={this.mouseout.bind(this)} onClick={()=>this.qiClick(item)}>{item.nameCn + '(' + item.nameEn + ')'}</p>
                       })
                       :
                       <p className='list_content_input_zwsj'>无数据</p>
@@ -265,14 +268,14 @@ class List extends React.Component {
               <li className='list_main_head_li li_head6'>详情</li>
             </ul>
             {
-              direct.map(item =>{
+              direct.map((item,index) =>{
                 return (
-                  <ul className='list_main_data_ul' key={item.id}>
+                  <ul className='list_main_data_ul' key={item.id + '' + index}>
                     <li className='list_main_direct_li direct__head1'>
                       {
                         item.sameRoute.map((sameRoute,sameIndex) =>{
                           return (
-                            <div className='direct__head1_p' key={sameRoute.staticId}>
+                            <div className='direct__head1_p' key={sameRoute.staticId + '' + sameIndex}>
                               <p style={{backgroundImage:`url(${require('../image/list/' + sameRoute.scac + '.png')})`}} className='direct__head1_img'></p>
                               {
                                 sameIndex === item.sameRoute.length - 1
@@ -317,9 +320,9 @@ class List extends React.Component {
             }
             <div className='list_main_transit_p'>更多中转方案</div>
             {
-              transit.map(item =>{
+              transit.map((item,index) =>{
                 return (
-                  <ul className='list_main_data_ul' key={item.id}>
+                  <ul className='list_main_data_ul' key={item.id + '' + index}>
                     <li className='list_main_direct_li direct__head1'>
                       {
                         item.routeCodeList.map((routeCode,routeIndex) =>{
