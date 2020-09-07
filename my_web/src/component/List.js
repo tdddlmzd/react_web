@@ -34,17 +34,20 @@ class List extends React.Component {
   }
   //起始港input离开
   qisBlur(){
+    console.log(this.state.isShowSlect,'this.state.isShowSlect')
     if(this.state.isShowSlect){
       this.setState({
         isShowQis: false
       })
     }
   }
+  //起始港下拉框选择
   qiClick(item){
     this.setState({
       qisValue: item.nameCn + '(' + item.nameEn + ')',
       qisJson: item.nameEn,
-      isShowQis: false
+      isShowQis: false,
+      isShowSlect: true,
     })
   }
   //目的港focues
@@ -95,7 +98,8 @@ class List extends React.Component {
     this.setState({
       mudValue: item.countryCn + '(' + item.cityEn + ')',
       mudJson: item.cityEn,
-      isShowmud: false
+      isShowmud: false,
+      isShowSlect: true,
     })
   }
   //目的港input离开
@@ -110,13 +114,17 @@ class List extends React.Component {
   mouseover(event){
     event.persist()
     event.target.style = "background:#dcdfe6;font-weight:600"
-    this.state.isShowSlect = false
+    this.setState({
+      isShowSlect: false
+    })
   }
   //鼠标移出
   mouseout(event){
     event.persist()
     event.target.style = "background:#fff;font-weight:normal"
-    this.state.isShowSlect = true
+    this.setState({
+      isShowSlect: true
+    })
   }
   getDate(jsonText){
     axios.get(localAddress+'/list/' + jsonText + '.json').then((res) => {
