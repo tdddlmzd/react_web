@@ -1,7 +1,7 @@
-  import React from 'react'
+  import React, { Component } from 'react'
   import { NavLink } from  'react-router-dom'
   
-  class NavBar extends React.Component {
+  class NavBar extends Component {
     render() {
       var currentPath = this.props && this.props.path ? this.props.path.history.location.pathname : ''
       return (

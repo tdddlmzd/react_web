@@ -1,7 +1,7 @@
-import React from 'react'
+import React, { Component } from 'react'
 import NavBar from '../component/NavBar'
 
-class Download extends React.Component {
+class Download extends Component {
     state = {
         currentIndex: 1,
     }

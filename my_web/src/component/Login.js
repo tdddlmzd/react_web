@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { Component } from 'react'
 import { NavLink } from  'react-router-dom'
 
-class Login extends React.Component{
+class Login extends Component{
     state = {
         listImg:[ //轮播的图片名称
             'login_1.png',

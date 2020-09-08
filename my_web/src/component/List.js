@@ -1,8 +1,8 @@
-import React from 'react'
-import NavBar from '../component/NavBar'
+import React, { Component } from 'react'
+import NavBar from './NavBar'
 import axios from 'axios';
 const localAddress = 'http://localhost:3000/json'
-class List extends React.Component {
+class List extends Component {
   state = {
     isShowQis: false,//起始港下拉框
     isShowmud: false,//起始港下拉框

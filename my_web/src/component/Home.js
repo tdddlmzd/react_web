@@ -1,7 +1,7 @@
-import React from 'react'
+import React, { Component } from 'react'
 import NavBar from '../component/NavBar'
 
-class Home extends React.Component {
+class Home extends Component {
     state = {
       currentIndex: 1,
     }
