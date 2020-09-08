@@ -7,6 +7,8 @@ import './css/navBar.css'
 import './css/login.css'
 import './css/download.css'
 import './css/list.css'
+import './css/details.css'
+import './css/map.css'
 
 class App extends React.Component{
   render(){

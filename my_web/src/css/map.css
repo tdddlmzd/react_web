@@ -1,4 +1,22 @@
 #map{
     width: 100%;
-    height: 400px;
+    height: 100%;
+    position: relative;
+}
+.mapBigSmall{
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: teal;
+    opacity: .8;
+    color: #fff;
+    right: 30px;
+    top: 0;
+    cursor: pointer;
+}
+.mapBigSmall:hover{
+    background-color: rgb(3, 148, 148);
 }
