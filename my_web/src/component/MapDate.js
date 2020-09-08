@@ -50,22 +50,22 @@ class MapDate extends Component {
         const {mapWidth, mapHeight, isZoIn} = this.state
         return (
             <div id="map" style={{width: mapWidth,height: mapHeight}}>
-                <Map center={{lng: 116.402544, lat: 39.928216}} zoom="11" style={{width: mapWidth,height: mapHeight}}>
+                <Map center={{lng: 116.402544, lat: 39.928216}} zoom="11" style={{width: mapWidth,height: mapHeight}} enableScrollWheelZoom='true'>
                     {/* 点 */}
                     <Marker position={{lng: 116.402544, lat: 39.928216}} />
 
-                    
+
                     {/* 弹出窗 */}
                     {/* <InfoWindow position={{lng: 116.402544, lat: 39.928216}} text="信息窗口内容" title="信息窗口标题"/> */}
 
 
                     {/* 圆 范围 */}
-                    <Circle
+                    {/* <Circle
                         center={{lng: 116.403119, lat: 39.929543}} 
                         fillColor='blue' 
                         strokeColor='white' 
                         radius="3000"
-                    />
+                    /> */}
 
 
                     {/* 折线 */}
@@ -104,8 +104,8 @@ class MapDate extends Component {
                     {/* <ScaleControl /> */}
 
 
-                    <OverviewMapControl />
-                    <MarkerList 
+                    {/* 标注 */}
+                    {/* <MarkerList 
                         data={[
                             {
                                 text: "长沙大道",
@@ -121,21 +121,19 @@ class MapDate extends Component {
                         isShowShadow={false} 
                         multiple={true} 
                         autoViewport={true}
-                    />
-                    <MapvLayer data={[]} options={{}} />
-                    <MapvglView effects={['bloom']}>
-                    {/* <MapvglLayer
-                        type="LineLayer"
-                        data={data}
-                        options={{
-                            blend: 'lighter',
-                            width: 10,
-                            color: 'rgb(255, 153, 0, 0.6)'
-                        }}
                     /> */}
-                    </MapvglView>
+
+
+                    {/* Mapv图层 */}
+                    <MapvLayer data={[]} options={{}} />
+
+
+                    {/* 道路 */}
                     <Road roadPath={['116.330484,40.031406,116.33124,40.029496,116.33124,40.029496']}/>
-                    <Boundary data={[
+
+
+                    {/* 行政区域 */}
+                    {/* <Boundary data={[
                         {
                             name: '海淀区',
                             count: 20
@@ -144,10 +142,29 @@ class MapDate extends Component {
                             name: '朝阳区',
                             count: 10
                         }
-                    ]}/>
-                    <TrafficLayer />
+                    ]}/> */}
+
+
+                    {/* 交通路况图层 */}
+                    {/* <TrafficLayer /> */}
+
+
+                    {/* <MapvglView effects={['bloom']}>
+                        <MapvglLayer
+                            type="LineLayer"
+                            data={data}
+                            options={{
+                                blend: 'lighter',
+                                width: 10,
+                                color: 'rgb(255, 153, 0, 0.6)'
+                            }}
+                        />
+                    </MapvglView> */}
+
+
+                    {/* <OverviewMapControl /> */}
                 </Map>
-                {/* <div className='mapBigSmall' onClick={()=>this.bigSmall()}>{isZoIn ? '缩小' : '放大'}</div> */}
+                <div className='mapBigSmall' onClick={()=>this.bigSmall()}>{isZoIn ? '缩小' : '放大'}</div>
             </div>
         )
     }
